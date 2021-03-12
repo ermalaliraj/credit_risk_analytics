@@ -1,0 +1,23 @@
+1. id: Borrower id
+2. time: Time stamp of observation
+3. orig_time: Time stamp for origination
+4. first_time: Time stamp for first observation
+5. mat_time: Time stamp for maturity
+6. balance_time: Outstanding balance at observation time
+7. LTV_time: Loan to value ratio at observation time, in %
+8. interest_rate_time: Mortgage rate at observation time, in %
+9. hpi_time: House price index at observation time, base year=100
+10. gdp_time: GDP growth at observation time, in %
+11. uer_time: Unemployment rate at observation time, in %
+12. REtype_CO_orig_time: Real estate type condominium: 1, otherwise: 0
+13. REtype_PU_orig_time: Real estate type planned urban developments: 1, otherwise: 0
+14. REtype_SF_orig_time: Single family home: 1, otherwise: 0
+15. investor_orig_time: Investor borrower: 1, otherwise: 0
+16. balance_orig_time: Outstanding balance at origination time
+17. FICO_orig_time: FICO score at origination time
+18. LTV_orig_time: Loan to value ratio at origination time, in %
+19. Interest_Rate_orig_time: Mortgage rate at origination time, in %
+20. hpi_orig_time: House price index at observation time, base year = 100
+21. default_time: Default observation at observation time
+22. payoff_time: Payoff observation at observation time
+23. status_time: Default (1), payoff (2) and non-default/non-payoff (0) observation at observation time
