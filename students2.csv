@@ -1,0 +1,1400 @@
+﻿Description;Date;AcademicYear;Status;Category;StudentCode;Sex;;Age;Continent;CivilStatus;Scholarship;ScholarshipCategory;ScholarshipAmount;Scholarship;HowYouKnew;Chosen
+First criteria not met;2015;2015;Erasmus;Erasmus MBA;135;1;;36;Europe;0;0;3; 21.400,00 ;N/A;Website;No
+Registered second time;2015;2015;Master;MSCS;136;0;;36;Asia;1;0;3; 10.400,00 ;N/A;Website;No
+Registration Started;2014;2014;Diploma;Summer MSCS;137;0;;31;Africa;3;0;0; -   ;N/A;Website;Yes
+Registered second time;2015;2015;Bachelor;BBA;138;1;;19;Africa;0;0;3; 21.400,00 ;Type1;Academic staff;Yes
+Registration Started;2015;2014;Diploma;Summer MSCS;139;0;;31;Africa;1;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Master;MBE;140;1;;36;Europe;1;0;3; -   ;N/A;Employer;No
+Registration Started;2015;2015;Master;MBE;141;1;;31;Africa;0;0;3; 16.400,00 ;Type1;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;142;0;;31;Europe;1;0;3; -   ;Type1;Website;Yes
+Registration Started;2015;2014;Master;MBA;143;1;;31;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2015;Diploma;Summer MSCS;144;0;;26;Africa;0;0;3; -   ;N/A;Website;Yes
+Registered second time;2014;2014;Master;MSCS;145;1;;26;Asia;0;0;0; -   ;N/A;Website;Yes
+Registered second time;2014;2015;Bachelor;BBA;146;1;;19;Africa;0;0;3; 9.820,00 ;Type1;Website;Yes
+First criteria not met;2015;2015;Master;MSCS;147;0;;36;Africa;1;0;3; 3.400,00 ;N/A;Website;No
+Registered second time;2015;2015;Master;MSCS;148;0;;26;Africa;1;0;3; -   ;Type1;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;149;0;;26;Europe;0;0;1; 6.400,00 ;Type1;Other;Yes
+Registration Started;2014;2014;Diploma;Summer MBA;150;1;;31;Africa;1;0;0; -   ;N/A;Scholarship;Yes
+First criteria not met;2015;2015;Diploma;Summer MBA;151;1;;36;Europe;0;0;3; 16.400,00 ;N/A;Website;No
+Registered second time;2015;2015;Diploma;Summer MSCS;152;0;;26;Africa;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;153;0;;19;Africa;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2014;2014;Master;MSCS;154;1;;26;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2015;Master;MBE;155;1;;26;North America;0;1;3; 51.400,00 ;Type1;Website;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;156;0;;26;Africa;3;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;157;1;;19;Africa;0;0;3; -   ;Type1;Other;Yes
+Registration Started;2014;2015;Bachelor;BBA;158;1;;19;Europe;0;0;3; -   ;N/A;Student Alumnus;Yes
+Registered second time;2014;2014;Bachelor;BBA;159;1;;26;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Master;MBE;160;1;;26;Europe;0;0;3; 11.400,00 ;N/A;Student Alumnus;Yes
+Registration Started;2015;2015;Master;MFA;161;1;;26;Africa;0;1;1; -   ;Type1;Third part website;Yes
+Registration Started;2014;2015;Bachelor;BBA;162;1;;19;Europe;0;0;3; 16.400,00 ;Type1;Website;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;163;0;;31;North America;1;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;164;0;;26;Europe;0;0;3; 22.400,00 ;N/A;Student Alumnus;Yes
+First criteria not met;2015;2015;Diploma;Summer MSCS;165;0;;36;Africa;1;0;3; 3.400,00 ;N/A;Website;No
+Registration Started;2014;2015;Bachelor;BBA;166;1;;19;Latin America;0;0;3; -   ;N/A;Website;Yes
+Acception notified;2014;2014;Diploma;Summer MBA;167;1;;26;Africa;0;0;0; -   ;N/A;Website;No
+Registration Started;2015;2015;Diploma;Summer MBA;168;1;;26;Africa;0;0;3; 11.400,00 ;N/A;Student Alumnus;Yes
+Registration Started;2015;2015;Diploma;Summer MBA;169;0;;26;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2014;2015;Bachelor;BBA;170;1;;19;Africa;0;0;3; 5.400,00 ;Type1;Scholarship;Yes
+Registration Started;2014;2015;Bachelor;BBA;171;0;;19;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2014;2015;Bachelor;BBA;172;1;;19;Europe;0;0;3; -   ;N/A;Scholarship;Yes
+Registration Started;2014;2015;Bachelor;BBA;173;1;;19;Europe;0;0;3; 11.400,00 ;N/A;Scholarship;Yes
+Registration Started;2015;2015;Master;MBA;174;0;;26;Europe;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2014;2015;Bachelor;BBA;175;1;;19;Africa;0;0;3; 30.400,00 ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;176;1;;19;Africa;0;0;3; -   ;Type1;Other;Yes
+Registration Started;2014;2015;Bachelor;BBA;177;1;;19;Latin America;0;0;3; -   ;N/A;Third part website;Yes
+Registration Started;2014;2015;Bachelor;BBA;178;1;;19;Africa;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;179;0;;19;Europe;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;180;1;;19;Europe;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;181;1;;19;Europe;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2014;2014;Master;MBInf;182;1;;26;Europe;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2015;Bachelor;BBA;183;0;;19;Europe;0;0;3; 11.400,00 ;Type1;Website;Yes
+Registration Started;2014;2015;Bachelor;BBA;184;1;;19;North America;0;0;3; -   ;Type1;Other;Yes
+Registration Started;2015;2015;Bachelor;BBA;185;1;;19;North America;0;0;3; -   ;Type1;N/A;Yes
+Registration Started;2015;2015;Bachelor;BBA;186;1;;19;Latin America;0;0;3; -   ;N/A;Other;Yes
+First criteria not met;2014;2014;Master;MBA;187;1;;26;Europe;0;0;0; -   ;N/A;Website;No
+Registration Started;2015;2015;Bachelor;BBA;188;1;;19;Latin America;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;189;0;;31;Africa;0;0;3; -   ;Type1;Academic staff;No
+Registration Started;2015;2015;Master;MBInf;190;1;;31;Europe;0;0;3; 2.400,00 ;N/A;Brochure;No
+Registration Started;2015;2015;Bachelor;BBA;191;0;;19;Africa;0;0;3; 2.650,00 ;Type1;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;192;1;;19;Asia;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;193;0;;19;Latin America;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Master;ME;194;1;;26;Europe;0;0;3; -   ;type3;Student Alumnus;Yes
+Registration Started;2015;2015;Erasmus;Erasmus MBA;195;0;;26;Europe;0;0;3; -   ;N/A;Brochure;Yes
+Registration Started;2015;2015;Bachelor;BBA;196;0;;19;Africa;0;0;3; -   ;Type1;Third part website;Yes
+Registration Started;2015;2015;Master;MBE;197;1;;26;Europe;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;198;0;;19;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2014;Bachelor;BBA;199;1;;19;Europe;0;0;3; -   ;Type1;Third part website;Yes
+Registration Started;2015;2015;Master;MBA;200;1;;26;Latin America;0;0;3; 3.400,00 ;N/A;Employer;Yes
+Registration Started;2015;2015;Bachelor;BBA;201;1;;19;Africa;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;202;0;;19;Africa;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2015;2015;Erasmus;Erasmus MBA;203;0;;26;Europe;0;0;3; -   ;Type1;Website;Yes
+First criteria not met;2015;2015;Bachelor;BBA;204;1;;19;Europe;0;1;1; -   ;N/A;Other;No
+Registration Started;2015;2014;Master;MBA;205;0;;26;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;206;0;;19;Europe;0;0;3; -   ;Type1;Student Alumnus;Yes
+Registration Started;2015;2015;Bachelor;BBA;207;1;;19;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;208;1;;19;Africa;0;0;3; 6.400,00 ;Type1;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;209;0;;19;Europe;0;0;3; -   ;N/A;Brochure;Yes
+Registration Started;2015;2015;Bachelor;BBA;210;1;;19;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;211;0;;26;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;212;1;;26;Oceania;0;0;0; -   ;N/A;Google;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;213;1;;26;North America;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2015;2015;Bachelor;BBA;214;0;;19;Europe;0;0;3; -   ;N/A;Student Alumnus;Yes
+Registration Started;2015;2015;Bachelor;BBA;215;0;;19;Europe;0;0;3; -   ;Type1;Other;Yes
+Registration Started;2015;2015;Bachelor;BBA;216;1;;19;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;217;1;;19;Europe;0;0;3; -   ;N/A;Other;Yes
+Registration Started;2015;2015;Bachelor;BBA;218;1;;19;Latin America;0;0;3; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;219;0;;26;Europe;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2015;2015;Bachelor;BBA;220;0;;19;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MBA;221;0;;26;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2015;Bachelor;BBA;222;0;;18;Africa;0;0;3; 9.400,00 ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;223;0;;19;Europe;0;0;3; 2.290,00 ;N/A;Other;Yes
+Registration Started;2015;2015;Bachelor;BBA;224;0;;19;Europe;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;225;0;;19;Europe;0;0;3; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;226;1;;26;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;227;1;;26;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;228;1;;19;Europe;0;0;3; -   ;N/A;Scholarship;Yes
+Registration Started;2014;2015;Bachelor;BBA;229;1;;18;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;230;0;;19;Europe;0;0;3; -   ;N/A;Other;Yes
+Registration Started;2014;2015;Bachelor;BBA;231;1;;18;Africa;0;0;3; 71.400,00 ;Type1;Website;Yes
+Registration Started;2014;2015;Bachelor;BBA;232;0;;18;Europe;0;0;3; 2.400,00 ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MBA;233;1;;26;Europe;0;0;1; 3.200,00 ;N/A;Online study portal;Yes
+First criteria not met;2014;2014;Master;MBA;234;1;;26;Europe;0;0;0; -   ;N/A;Online study portal;No
+First criteria not met;2015;2015;Bachelor;BBA;235;0;;31;Europe;0;0;3; -   ;N/A;Radio;No
+Registration Started;2014;2014;Master;MFA;236;0;;26;Europe;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2015;2015;Bachelor;BBA;237;1;;19;Europe;0;0;3; -   ;Type1;Website;Yes
+First criteria not met;2015;2015;Master;MFA;238;1;;26;Africa;0;1;3; 8.900,00 ;N/A;Third part website;No
+Registration Started;2015;2015;Bachelor;BBA;239;0;;19;Europe;0;0;3; -   ;Type1;Student Alumnus;Yes
+Acception notified;2015;2015;Master;MFA;240;0;;26;Europe;0;0;3; -   ;N/A;Website;No
+Registration Started;2015;2015;Bachelor;BBA;241;1;;19;Asia;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;242;1;;19;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;243;1;;19;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2014;2015;Bachelor;BBA;244;0;;18;Europe;0;0;3; -   ;Type1;Student Alumnus;Yes
+Registration Started;2015;2015;Bachelor;BBA;245;1;;19;Europe;0;0;3; -   ;Type1;Third part website;Yes
+Registration Started;2014;2014;Bachelor;BBA;246;1;;19;Asia;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2015;2015;Bachelor;BBA;247;0;;19;Europe;0;0;3; -   ;N/A;Other;Yes
+Acception notified;2015;2015;Bachelor;BBA;248;1;;19;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2014;Bachelor;BBA;249;1;;19;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2014;Bachelor;BBA;250;0;;19;Europe;0;0;0; -   ;N/A;Scholarship;Yes
+Registration Started;2015;2014;Bachelor;BBA;251;1;;19;Europe;0;0;0; -   ;N/A;Social media;Yes
+Registration Started;2015;2014;Bachelor;BBA;252;0;;19;Europe;0;0;0; -   ;N/A;Online study portal;Yes
+First criteria not met;2015;2015;Master;MSCS;253;0;;31;Africa;1;0;3; -   ;N/A;Website;No
+Registration Started;2015;2015;Bachelor;BBA;254;1;;18;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2014;Bachelor;BBA;255;0;;19;Africa;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Bachelor;BBA;256;0;;19;Africa;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2015;2015;Bachelor;BBA;257;1;;26;Europe;0;0;3; -   ;N/A;Other;No
+Registration Started;2015;2015;Bachelor;BBA;258;0;;18;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;259;0;;19;Latin America;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;260;1;;31;Europe;1;0;3; -   ;N/A;N/A;No
+Registration Started;2014;2014;Bachelor;BBA;261;0;;19;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;262;1;;19;Europe;0;0;0; -   ;N/A;Online study portal;Yes
+Registration Started;2014;2014;Bachelor;BBA;263;1;;19;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;264;0;;19;Asia;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Bachelor;BBA;265;0;;19;Africa;0;0;0; -   ;N/A;Online study portal;Yes
+First criteria not met;2014;2014;Diploma;Summer MSCS;266;1;;31;Asia;1;0;0; -   ;N/A;Website;No
+Registration Started;2015;2015;Bachelor;BBA;267;0;;18;Europe;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;268;1;;19;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;269;1;;19;Africa;0;0;0; -   ;N/A;Social media;Yes
+Registration Started;2014;2014;Bachelor;BBA;270;1;;19;Latin America;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;271;0;;19;Europe;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Bachelor;BBA;272;0;;19;Europe;0;0;0; -   ;N/A;Other;Yes
+Acception notified;2014;2014;Master;MBA;273;0;;26;Europe;0;0;3; 2.070,00 ;N/A;Website;No
+Acception notified;2014;2014;Master;MBE;274;0;;31;Europe;1;0;0; -   ;N/A;Website;No
+First criteria not met;2015;2015;Master;MBE;275;0;;26;Africa;1;0;3; -   ;N/A;Website;No
+Registration Started;2014;2014;Bachelor;BBA;276;1;;19;Europe;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Bachelor;BBA;277;0;;19;North America;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;278;1;;19;Africa;0;0;0; -   ;N/A;Online study portal;Yes
+First criteria not met;2015;2015;Master;MBE;279;1;;26;Europe;0;0;3; -   ;N/A;Website;No
+Registration Started;2014;2014;Bachelor;BBA;280;0;;19;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2015;Bachelor;BBA;281;0;;18;Latin America;0;0;3; 2.650,00 ;N/A;Other;Yes
+Registration Started;2014;2014;Bachelor;BBA;282;1;;19;Africa;0;0;0; -   ;N/A;Family Academic staff;Yes
+Registration Started;2014;2014;Bachelor;BBA;283;0;;19;Africa;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Bachelor;BBA;284;1;;19;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;285;0;;19;Africa;0;0;0; -   ;N/A;Website;Yes
+First criteria not met;2015;2015;Diploma;Summer MSCS;286;0;;26;Europe;0;0;3; 5.400,00 ;N/A;Website;No
+First criteria not met;2015;2015;Master;MFA;287;1;;26;Latin America;0;0;3; -   ;N/A;Student Alumnus;No
+Registration Started;2014;2014;Bachelor;BBA;289;0;;19;Africa;0;0;0; -   ;N/A;Third part website;Yes
+Registration Started;2014;2014;Bachelor;BBA;290;0;;19;Europe;0;0;0; -   ;N/A;Third part website;Yes
+Registration Started;2014;2015;Bachelor;BBA;291;0;;18;Africa;0;0;3; 41.400,00 ;Type1;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;292;0;;19;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;293;1;;19;Asia;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Bachelor;BBA;294;0;;19;Asia;0;0;0; -   ;N/A;Scholarship;Yes
+Registered second time;2015;2015;Diploma;Summer MSCS;295;0;;26;Africa;0;0;3; -   ;Type1;Website;No
+Acception notified;2015;2015;Bachelor;BBA;296;1;;26;Asia;0;0;3; 10.400,00 ;Type1;Website;No
+Registration Started;2014;2014;Bachelor;BBA;297;1;;19;North America;0;0;0; -   ;N/A;Website;Yes
+Acception notified;2015;2015;Master;MBA;298;0;;26;Europe;0;0;3; -   ;Type1;Student Alumnus;No
+Acception notified;2015;2015;Erasmus;Erasmus MBA;299;1;;26;Europe;0;0;3; 16.400,00 ;N/A;Website;No
+Registration Started;2014;2014;Bachelor;BBA;300;0;;19;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;301;1;;19;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;302;0;;19;North America;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Bachelor;BBA;303;1;;19;Asia;0;0;0; -   ;N/A;Student Alumnus;Yes
+First criteria not met;2014;2015;Diploma;Summer MSCS;304;1;;26;Europe;0;0;3; -   ;N/A;Website;No
+Registration Started;2015;2015;Bachelor;BBA;305;1;;18;Africa;0;0;3; 21.400,00 ;Type1;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;306;1;;19;Africa;0;0;0; -   ;N/A;Other;Yes
+First criteria not met;2014;2015;Diploma;Summer MSCS;307;1;;26;Africa;1;0;3; -   ;N/A;Website;No
+Registration Started;2014;2014;Bachelor;BBA;308;1;;19;Africa;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Bachelor;BBA;309;1;;19;Africa;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Bachelor;BBA;310;1;;19;Africa;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2015;2015;Bachelor;BBA;311;0;;18;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;312;1;;18;Asia;0;0;3; -   ;Type1;Student Alumnus;Yes
+Registration Started;2014;2015;Bachelor;BBA;313;0;;18;Asia;0;0;3; 2.650,00 ;Type1;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;314;0;;19;Africa;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Bachelor;BBA;315;0;;19;Europe;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Bachelor;BBA;316;0;;19;Europe;0;0;0; -   ;N/A;Employer;Yes
+Registration Started;2014;2014;Bachelor;BBA;317;1;;19;Europe;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Bachelor;BBA;318;0;;19;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;319;0;;19;Europe;0;0;0; -   ;N/A;Online study portal;Yes
+Registration Started;2015;2014;Bachelor;BBA;320;1;;18;Asia;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;321;1;;19;Europe;0;0;0; -   ;N/A;Other;Yes
+First criteria not met;2015;2015;Diploma;Summer MSCS;322;0;;26;Europe;0;0;1; 3.200,00 ;N/A;N/A;No
+Registration Started;2014;2014;Bachelor;BBA;323;1;;19;Europe;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Bachelor;BBA;324;1;;19;Europe;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;325;0;;26;Europe;0;0;3; -   ;N/A;Student Alumnus;No
+Acception notified;2014;2014;Diploma;Summer MSCS;326;0;;26;Africa;1;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Bachelor;BBA;327;0;;19;Europe;0;0;0; -   ;N/A;Online study portal;No
+Registration Started;2014;2014;Bachelor;BBA;328;1;;19;Europe;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Bachelor;BBA;329;1;;19;Africa;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Bachelor;BBA;330;0;;19;Europe;0;0;0; -   ;N/A;Family Academic staff;Yes
+Registration Started;2014;2014;Bachelor;BBA;331;0;;19;Europe;0;0;0; -   ;N/A;Website;Yes
+First criteria not met;2015;2015;Bachelor;BBA;332;0;;18;Europe;0;0;3; -   ;N/A;Website;No
+Registration Started;2014;2014;Bachelor;BBA;333;0;;19;Europe;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Bachelor;BBA;334;1;;19;Asia;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;335;1;;19;Africa;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Bachelor;BBA;336;0;;19;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;337;0;;19;Europe;0;0;0; -   ;N/A;Scholarship;Yes
+Registration Started;2014;2014;Bachelor;BBA;338;1;;19;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;339;0;;18;Europe;0;0;3; -   ;N/A;Website;Yes
+First criteria not met;2015;2014;Diploma;Summer MSCS;340;0;;31;Africa;0;0;0; -   ;N/A;Student Alumnus;No
+Registration Started;2015;2015;Bachelor;BBA;341;0;;18;Africa;0;0;3; 28.400,00 ;Type1;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;342;0;;18;Europe;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;343;0;;19;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;344;1;;19;Asia;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Bachelor;BBA;345;1;;19;Europe;0;0;0; -   ;N/A;Family Academic staff;Yes
+Registration Started;2014;2014;Bachelor;BBA;346;0;;19;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;347;1;;19;Africa;0;0;0; -   ;N/A;Student Alumnus;Yes
+First criteria not met;2014;2014;Diploma;Summer MSCS;348;1;;26;Europe;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2015;Bachelor;BBA;349;1;;19;Africa;0;0;3; -   ;Type1;Other;No
+Registration Started;2014;2015;Bachelor;BBA;350;0;;18;Asia;0;0;3; 41.400,00 ;Type1;Website;Yes
+Acception notified;2015;2015;Bachelor;BBA;351;1;;19;Europe;0;0;3; -   ;Type1;Other;No
+First criteria not met;2015;2015;Bachelor;BBA;352;0;;19;Europe;0;0;3; -   ;N/A;Other;No
+Registration Started;2015;2015;Bachelor;BBA;353;0;;19;Europe;0;0;3; 21.400,00 ;Type1;Website;No
+Registration Started;2015;2015;Bachelor;BBA;354;1;;18;Latin America;0;0;3; -   ;N/A;Other;Yes
+First criteria not met;2014;2014;Diploma;Summer MSCS;355;0;;26;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Diploma;Summer MBA;356;0;;26;Africa;1;0;0; -   ;N/A;Website;No
+Acception notified;2015;2015;Bachelor;BBA;357;0;;19;Europe;0;0;3; -   ;N/A;Other;No
+First criteria not met;2015;2014;Bachelor;BBA;358;1;;19;Europe;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Bachelor;BBA;359;1;;19;Europe;0;0;3; -   ;N/A;Student Alumnus;No
+First criteria not met;2015;2015;Bachelor;BBA;360;1;;19;Europe;0;0;3; -   ;N/A;Website;No
+Acception notified;2014;2015;Bachelor;BBA;361;1;;19;Africa;0;0;3; 2.650,00 ;N/A;Family Academic staff;No
+Registration Started;2015;2015;Bachelor;BBA;362;0;;18;Africa;0;0;3; -   ;Type1;Student Alumnus;Yes
+First criteria not met;2014;2015;Bachelor;BBA;363;0;;19;Europe;0;0;3; 26.400,00 ;N/A;Student Alumnus;No
+First criteria not met;2015;2015;Bachelor;BBA;364;1;;19;Europe;0;0;3; -   ;N/A;Website;No
+Registration Started;2015;2015;Bachelor;BBA;365;1;;18;Africa;0;0;3; 4.400,00 ;N/A;Third part website;Yes
+First criteria not met;2014;2014;Master;MBInf;366;1;;26;Africa;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Diploma;Summer MBA;367;1;;31;Europe;0;0;0; -   ;N/A;Other;No
+First criteria not met;2014;2015;Bachelor;BBA;368;0;;19;Africa;0;0;3; -   ;Type1;Website;No
+First criteria not met;2015;2015;Bachelor;BBA;369;0;;19;Europe;0;0;3; -   ;N/A;Website;No
+Acception notified;2015;2015;Bachelor;BBA;370;0;;19;Europe;0;0;3; -   ;N/A;Other;No
+Acception notified;2015;2015;Bachelor;BBA;371;1;;19;Europe;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Bachelor;BBA;372;1;;19;Europe;0;0;3; 16.400,00 ;Type1;Website;No
+Acception notified;2015;2015;Bachelor;BBA;373;1;;19;Europe;0;0;3; -   ;N/A;Third part website;No
+First criteria not met;2015;2015;Bachelor;BBA;374;0;;19;Europe;0;0;3; -   ;N/A;Scholarship;No
+First criteria not met;2014;2014;Bachelor;BBA;375;1;;26;Europe;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Master;BIS;376;1;;26;Africa;0;0;0; -   ;N/A;Website;No
+Acception notified;2015;2015;Bachelor;BBA;377;1;;19;Africa;0;0;3; -   ;Type1;Website;No
+First criteria not met;2015;2015;Bachelor;BBA;378;0;;19;Europe;0;0;3; -   ;N/A;N/A;No
+First criteria not met;2015;2015;Bachelor;BBA;379;1;;19;Asia;0;0;3; -   ;N/A;Other;No
+Registration Started;2015;2015;Bachelor;BBA;380;1;;18;Asia;0;0;3; -   ;Type1;Website;Yes
+Acception notified;2014;2014;Bachelor;BBA;381;1;;26;Europe;0;0;0; -   ;N/A;Third part website;No
+Acception notified;2015;2015;Bachelor;BBA;382;0;;19;Europe;0;0;3; -   ;N/A;Student Alumnus;No
+Acception notified;2014;2014;Master;MFA;383;1;;26;Europe;0;0;0; -   ;N/A;Website;No
+Acception notified;2015;2015;Bachelor;BBA;384;1;;19;Africa;0;0;3; -   ;Type1;Third part website;No
+First criteria not met;2015;2015;Bachelor;BBA;385;0;;19;Europe;0;0;3; -   ;N/A;Third part website;No
+Registration Started;2014;2015;Bachelor;BBA;386;0;;18;Asia;0;0;3; -   ;Type1;Other;Yes
+Registration Started;2014;2015;Bachelor;BBA;387;1;;18;Asia;0;0;3; -   ;Type1;Website;Yes
+First criteria not met;2015;2015;Bachelor;BBA;388;1;;19;Europe;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Bachelor;BBA;389;1;;19;North America;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Bachelor;BBA;390;0;;19;Europe;0;0;3; -   ;N/A;Student Alumnus;No
+First criteria not met;2015;2015;Bachelor;BBA;391;1;;19;Europe;3;0;3; -   ;N/A;Website;No
+First criteria not met;2014;2015;Bachelor;BBA;392;1;;19;Africa;0;0;3; -   ;N/A;Website;No
+Registration Started;2015;2015;Bachelor;BBA;393;1;;18;Europe;0;0;3; -   ;N/A;Other;Yes
+First criteria not met;2014;2014;Master;MBInf;394;1;;26;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2015;2015;Bachelor;BBA;395;0;;19;Europe;0;0;3; 11.400,00 ;N/A;Website;No
+First criteria not met;2015;2015;Bachelor;BBA;396;1;;19;Latin America;0;0;3; -   ;N/A;Other;No
+First criteria not met;2014;2015;Bachelor;BBA;397;0;;19;Asia;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2014;Bachelor;BBA;398;1;;19;Europe;0;0;0; -   ;N/A;Online study portal;No
+Registration Started;2015;2015;Bachelor;BBA;399;1;;18;Europe;0;0;3; -   ;N/A;Third part website;Yes
+First criteria not met;2014;2014;Bachelor;BBA;400;0;;19;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Bachelor;BBA;401;0;;19;Africa;0;0;3; -   ;N/A;Other;No
+First criteria not met;2014;2014;Bachelor;BBA;402;0;;19;Africa;0;0;0; -   ;N/A;Third part website;No
+Registration Started;2015;2015;Bachelor;BBA;403;1;;18;Europe;0;0;3; -   ;N/A;Other;Yes
+First criteria not met;2014;2014;Bachelor;BBA;404;1;;19;Europe;0;0;0; -   ;N/A;Other;No
+First criteria not met;2014;2014;Bachelor;BBA;405;0;;26;Asia;0;0;0; -   ;N/A;Online study portal;No
+First criteria not met;2014;2014;Diploma;Summer MSCS;406;0;;26;Europe;0;0;0; -   ;N/A;Student Alumnus;No
+Acception notified;2015;2014;Master;MFA;407;1;;26;North America;0;0;0; -   ;N/A;Student Alumnus;No
+First criteria not met;2014;2014;Master;MBE;408;1;;26;North America;0;0;0; -   ;N/A;Other;No
+Acception notified;2014;2014;Bachelor;BBA;409;1;;19;Europe;0;0;0; -   ;N/A;Online study portal;No
+First criteria not met;2014;2014;Bachelor;BBA;410;0;;19;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Bachelor;BBA;411;1;;19;Europe;0;0;0; -   ;N/A;Website;No
+Acception notified;2015;2014;Bachelor;BBA;412;0;;19;Europe;0;0;0; -   ;N/A;Website;No
+Acception notified;2015;2014;Bachelor;BBA;413;0;;19;Africa;0;0;0; -   ;N/A;Other;No
+First criteria not met;2014;2014;Bachelor;BBA;414;0;;19;Asia;0;0;0; -   ;N/A;Other;No
+Registration Started;2015;2015;Bachelor;BBA;415;1;;18;Europe;0;0;3; -   ;Type1;Website;Yes
+Acception notified;2014;2014;Diploma;Summer MBA;416;1;;36;Europe;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Bachelor;BBA;417;1;;19;Europe;0;0;0; -   ;N/A;Other;No
+Acception notified;2014;2014;Bachelor;BBA;418;1;;19;Africa;0;0;0; -   ;N/A;Other;No
+Registration Started;2014;2014;Bachelor;BBA;419;1;;19;Europe;0;0;0; -   ;N/A;Student Alumnus;No
+First criteria not met;2014;2014;Bachelor;BBA;420;0;;19;Europe;0;0;0; -   ;N/A;Other;No
+Acception notified;2014;2014;Bachelor;BBA;421;0;;19;Europe;0;0;0; -   ;N/A;Family Academic staff;No
+Acception notified;2014;2014;Bachelor;BBA;422;0;;19;Europe;0;0;0; -   ;N/A;Other;No
+Acception notified;2015;2014;Bachelor;BBA;423;0;;19;Europe;0;0;0; -   ;N/A;Family Academic staff;No
+Registration Started;2015;2015;Bachelor;BBA;424;1;;18;Europe;0;0;3; -   ;N/A;Brochure;Yes
+Acception notified;2014;2014;Bachelor;BBA;425;0;;19;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Bachelor;BBA;426;1;;19;Latin America;0;0;0; -   ;N/A;Student Alumnus;No
+First criteria not met;2014;2014;Bachelor;BBA;427;0;;19;Africa;0;0;0; -   ;N/A;Social media;No
+Acception notified;2014;2014;Bachelor;BBA;428;1;;19;Asia;0;0;0; -   ;N/A;Other;No
+Acception notified;2014;2014;Master;MFA;429;1;;26;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Bachelor;BBA;430;0;;19;Europe;0;0;0; -   ;N/A;Social media;No
+Acception notified;2014;2014;Bachelor;BBA;431;1;;19;Europe;0;0;0; -   ;N/A;Student Alumnus;No
+Acception notified;2014;2014;Master;MBA;432;1;;26;Europe;0;0;0; -   ;N/A;Third part website;No
+Acception notified;2014;2014;Bachelor;BBA;433;1;;19;Europe;0;0;0; -   ;N/A;Online study portal;No
+Acception notified;2014;2014;Bachelor;BBA;434;0;;19;Latin America;0;0;0; -   ;N/A;Third part website;No
+First criteria not met;2014;2014;Bachelor;BBA;435;1;;19;Asia;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Bachelor;BBA;436;1;;19;Africa;0;0;0; -   ;N/A;Other;No
+First criteria not met;2014;2014;Bachelor;BBA;437;1;;19;Africa;0;0;0; -   ;N/A;Website;No
+Registration Started;2015;2015;Bachelor;BBA;438;0;;18;Europe;0;0;3; -   ;N/A;Brochure;Yes
+Acception notified;2014;2014;Bachelor;BBA;439;0;;19;Asia;0;0;0; -   ;N/A;Other;No
+Registration Started;2015;2015;Bachelor;BBA;440;1;;18;Europe;0;0;3; -   ;N/A;Other;Yes
+Acception notified;2014;2014;Bachelor;BBA;441;0;;19;Europe;0;0;0; -   ;N/A;Student Alumnus;No
+Acception notified;2014;2014;Bachelor;BBA;442;0;;19;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Bachelor;BBA;443;1;;19;Europe;0;0;0; -   ;N/A;Online study portal;No
+Acception notified;2015;2014;Bachelor;BBA;444;1;;19;Africa;0;0;0; -   ;N/A;Social media;No
+Acception notified;2014;2014;Bachelor;BBA;445;1;;19;Europe;0;0;0; -   ;N/A;Online study portal;No
+First criteria not met;2014;2014;Bachelor;BBA;446;1;;19;Africa;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Bachelor;BBA;447;1;;19;Africa;0;0;0; -   ;N/A;Academic staff;No
+First criteria not met;2014;2014;Bachelor;BBA;448;0;;19;Africa;0;0;0; -   ;N/A;Online study portal;No
+First criteria not met;2014;2014;Bachelor;BBA;449;1;;19;Africa;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Bachelor;BBA;450;1;;19;Asia;0;0;0; -   ;N/A;Social media;No
+Acception notified;2014;2014;Bachelor;BBA;451;1;;19;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Bachelor;BBA;452;1;;19;Africa;0;0;0; -   ;N/A;Other;No
+Acception notified;2014;2014;Bachelor;BBA;453;0;;19;Africa;0;0;0; -   ;N/A;Other;No
+First criteria not met;2014;2014;Bachelor;BBA;454;0;;19;Europe;0;0;0; -   ;N/A;Other;No
+Acception notified;2015;2015;Bachelor;BBA;455;1;;20;Africa;0;0;3; 9.000,00 ;N/A;Website;No
+Registered second time;2015;2015;Bachelor;BBA;456;0;;20;Europe;0;0;3; -   ;N/A;Scholarship;Yes
+Registration Started;2015;2015;Bachelor;BBA;457;0;;20;Africa;0;0;3; -   ;Type1;Student Alumnus;Yes
+Registration Started;2015;2015;Bachelor;BBA;458;0;;20;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;459;1;;20;Africa;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2014;2015;Bachelor;BBA;460;0;;20;Africa;0;0;3; 2.400,00 ;Type1;Website;Yes
+Registration Started;2014;2015;Bachelor;BBA;461;1;;20;Africa;0;0;3; 11.400,00 ;Type1;Website;Yes
+Registration Started;2014;2015;Bachelor;BBA;462;1;;20;Africa;0;0;3; 26.400,00 ;Type1;Website;Yes
+First criteria not met;2014;2014;Diploma;Summer MSCS;463;0;;26;Europe;0;0;0; -   ;N/A;Website;No
+Registration Started;2015;2015;Bachelor;BBA;464;1;;20;Africa;0;0;3; 51.400,00 ;Type1;Student Alumnus;Yes
+Registration Started;2015;2015;Bachelor;BBA;465;1;;20;Africa;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;466;1;;20;Africa;0;0;3; 7.400,00 ;Type1;Website;Yes
+First criteria not met;2014;2014;Diploma;Summer MSCS;467;0;;26;Europe;0;0;0; -   ;N/A;Student Alumnus;No
+Registration Started;2015;2015;Bachelor;BBA;468;0;;20;Africa;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;469;1;;20;Africa;0;0;3; 9.900,00 ;Type1;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;470;1;;20;Africa;0;0;3; 3.150,00 ;Type1;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;471;1;;18;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;472;1;;37;North America;0;0;0; -   ;N/A;Website;Yes
+Registered second time;2015;2015;Master;MBE;473;1;;37;Asia;0;0;3; 26.400,00 ;N/A;Academic staff;Yes
+Registration Started;2015;2015;Bachelor;BBA;474;1;;20;Europe;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;475;0;;20;Europe;0;0;0; -   ;N/A;Online study portal;Yes
+Registration Started;2015;2015;Bachelor;BBA;476;0;;20;Asia;0;0;3; 2.650,00 ;Type1;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;477;1;;20;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2014;2015;Bachelor;BBA;478;1;;20;North America;0;1;1; -   ;Type1;Third part website;Yes
+Registration Started;2015;2015;Bachelor;BBA;479;0;;20;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Master;MBE;480;0;;20;Europe;0;0;3; -   ;N/A;Other;Yes
+Registration Started;2015;2015;Bachelor;BBA;481;1;;20;Europe;0;0;3; -   ;N/A;Student Alumnus;Yes
+Registration Started;2015;2015;Bachelor;BBA;482;0;;20;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;483;0;;20;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;484;1;;20;Africa;0;0;3; -   ;Type1;Website;Yes
+Acception notified;2015;2015;Diploma;Summer MBA;485;1;;27;Europe;0;0;3; 15.400,00 ;Type1;Website;No
+Registration Started;2015;2015;Bachelor;BBA;486;1;;20;Europe;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;487;1;;20;Africa;0;0;3; -   ;Type1;Other;Yes
+Registration Started;2015;2015;Bachelor;BBA;488;0;;20;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;489;1;;20;Europe;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;490;0;;20;Europe;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;491;0;;20;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;492;1;;27;Africa;0;0;3; 2.040,00 ;Type1;Website;Yes
+Registration Started;2014;2014;Master;ME;493;0;;27;Europe;3;0;0; -   ;N/A;Academic staff;Yes
+Registration Started;2015;2015;Bachelor;BBA;494;1;;20;Europe;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;495;1;;20;Europe;0;0;3; -   ;N/A;Other;Yes
+Registration Started;2015;2015;Bachelor;BBA;496;1;;20;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;497;1;;20;Europe;0;0;3; -   ;Type1;Student Alumnus;Yes
+Registration Started;2015;2015;Bachelor;BBA;498;0;;20;Europe;0;0;3; -   ;Type1;Scholarship;Yes
+Registration Started;2015;2015;Bachelor;BBA;499;0;;20;Africa;0;0;3; 6.400,00 ;N/A;Other;Yes
+Registration Started;2015;2014;Bachelor;BBA;500;1;;20;Africa;0;0;3; 32.900,00 ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;501;1;;20;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;502;1;;20;Europe;0;0;3; -   ;Type1;Website;Yes
+Registered second time;2014;2014;Diploma;Summer MSCS;503;0;;27;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;504;1;;20;Europe;0;0;3; -   ;N/A;Other;Yes
+Registration Started;2015;2014;Bachelor;BBA;505;1;;20;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2014;Bachelor;BBA;506;0;;20;Africa;0;0;0; -   ;N/A;Brochure;Yes
+Registration Started;2015;2014;Bachelor;BBA;507;0;;20;Africa;0;0;0; -   ;N/A;Online study portal;Yes
+Registration Started;2014;2014;Bachelor;BBA;508;1;;20;Africa;0;0;0; -   ;N/A;Website;Yes
+First criteria not met;2014;2015;Diploma;Summer MSCS;509;0;;27;Europe;3;0;3; -   ;N/A;Student Alumnus;No
+Registration Started;2014;2014;Bachelor;BBA;510;1;;20;Africa;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Bachelor;BBA;511;1;;20;Europe;0;0;0; -   ;N/A;Online study portal;Yes
+Registration Started;2014;2015;Diploma;Summer MSCS;512;0;;27;Europe;3;0;3; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Bachelor;BBA;513;1;;20;Latin America;0;0;0; -   ;N/A;Website;Yes
+Acception notified;2015;2015;Bachelor;BBA;514;0;;18;Europe;0;0;3; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Bachelor;BBA;515;1;;20;Africa;0;0;0; -   ;N/A;Online study portal;Yes
+Registration Started;2014;2014;Bachelor;BBA;516;1;;20;Latin America;0;0;0; -   ;N/A;Online study portal;Yes
+Registration Started;2014;2014;Bachelor;BBA;517;1;;20;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;518;0;;20;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2015;Master;MFA;519;0;;27;Europe;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2015;2015;Master;MSCS;520;0;;27;Latin America;1;0;3; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Bachelor;BBA;521;1;;20;Asia;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Bachelor;BBA;522;1;;20;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;523;1;;20;Europe;0;0;0; -   ;N/A;Social media;Yes
+Registration Started;2014;2014;Bachelor;BBA;524;0;;20;North America;0;0;0; -   ;N/A;Third part website;Yes
+Registration Started;2014;2014;Bachelor;BBA;525;1;;20;Africa;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Bachelor;BBA;526;0;;20;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;527;0;;20;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;528;0;;27;Latin America;0;0;3; 16.400,00 ;N/A;Google;Yes
+Registration Started;2014;2014;Bachelor;BBA;529;0;;20;Asia;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;530;0;;20;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;531;1;;20;Europe;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Bachelor;BBA;532;0;;20;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;533;1;;20;Europe;0;0;0; -   ;N/A;Third part website;Yes
+Registration Started;2014;2014;Bachelor;BBA;534;0;;20;Europe;0;0;0; -   ;N/A;Website;Yes
+Acception notified;2014;2014;Diploma;Summer MSCS;535;1;;31;Europe;0;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Bachelor;BBA;536;1;;20;Europe;0;0;0; -   ;N/A;Online study portal;Yes
+Registration Started;2015;2015;Bachelor;BBA;537;1;;18;Europe;0;0;3; -   ;Type1;Scholarship;Yes
+Registration Started;2014;2014;Bachelor;BBA;538;1;;20;Europe;0;0;0; -   ;N/A;Third part website;Yes
+Registration Started;2014;2014;Bachelor;BBA;539;0;;20;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;540;1;;20;Europe;0;0;0; -   ;N/A;Online study portal;Yes
+Registration Started;2014;2014;Bachelor;BBA;541;1;;20;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;542;0;;20;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;543;0;;18;Asia;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;544;0;;20;Europe;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;545;0;;27;Latin America;0;0;3; -   ;N/A;Google;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;546;1;;32;Africa;0;0;0; -   ;N/A;Website;Yes
+First criteria not met;2015;2015;Bachelor;BBA;547;1;;20;Europe;0;0;3; -   ;N/A;Other;No
+First criteria not met;2015;2015;Bachelor;BBA;548;0;;20;Africa;0;0;3; 11.400,00 ;N/A;Other;No
+First criteria not met;2015;2015;Master;MFA;549;0;;20;Europe;0;0;3; -   ;N/A;Student Alumnus;No
+Acception notified;2015;2015;Bachelor;BBA;550;1;;20;Africa;0;0;3; -   ;Type1;Website;No
+Registration Started;2014;2014;Bachelor;BBA;551;1;;18;Asia;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Bachelor;BBA;552;1;;18;Asia;0;0;3; -   ;N/A;Online study portal;Yes
+First criteria not met;2015;2015;Bachelor;BBA;553;0;;20;Europe;0;0;3; -   ;N/A;Family Academic staff;No
+Registration Started;2015;2015;Bachelor;BBA;554;0;;18;Asia;0;0;3; 8.800,00 ;N/A;Website;Yes
+Registration Started;2014;2015;Diploma;Summer MSCS;555;1;;32;Europe;0;0;3; 2.400,00 ;N/A;Website;Yes
+Registered second time;2015;2015;Bachelor;BBA;556;1;;20;Europe;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Bachelor;BBA;557;1;;20;Europe;0;0;3; -   ;N/A;Third part website;No
+Registration Started;2015;2014;Bachelor;BBA;558;1;;18;Europe;0;0;0; -   ;N/A;Other;Yes
+First criteria not met;2015;2015;Bachelor;BBA;559;1;;20;Africa;0;0;3; 5.400,00 ;N/A;Website;No
+First criteria not met;2015;2015;Bachelor;BBA;560;0;;20;Europe;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Bachelor;BBA;561;1;;20;Europe;0;0;3; -   ;N/A;Brochure;No
+First criteria not met;2015;2015;Bachelor;BBA;562;1;;20;Africa;0;0;3; 11.400,00 ;N/A;Third part website;No
+Registration Started;2015;2014;Bachelor;BBA;563;1;;18;Africa;0;0;0; -   ;N/A;Other;Yes
+Acception notified;2015;2015;Bachelor;BBA;564;0;;20;Europe;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Bachelor;BBA;565;1;;20;Europe;0;0;3; -   ;Type1;Website;No
+Registration Started;2015;2014;Bachelor;BBA;566;1;;18;Africa;0;0;0; -   ;N/A;Website;Yes
+First criteria not met;2014;2014;Bachelor;BBA;567;1;;20;North America;0;0;0; -   ;N/A;Other;No
+Acception notified;2015;2014;Bachelor;BBA;568;0;;20;Europe;0;0;0; -   ;N/A;Online study portal;No
+First criteria not met;2014;2014;Bachelor;BBA;569;1;;20;Africa;0;0;0; -   ;N/A;Student Alumnus;No
+Acception notified;2014;2014;Bachelor;BBA;570;1;;20;Africa;0;0;0; -   ;N/A;Third part website;No
+First criteria not met;2014;2014;Bachelor;BBA;571;1;;20;Europe;0;0;3; 16.400,00 ;Type1;Website;No
+Acception notified;2014;2014;Bachelor;BBA;572;0;;20;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2015;2014;Bachelor;BBA;573;1;;20;Africa;0;0;0; -   ;N/A;Scholarship;No
+Acception notified;2015;2015;Master;ME;574;1;;27;Africa;1;1;3; 8.900,00 ;N/A;Online study portal;No
+First criteria not met;2014;2014;Bachelor;BBA;575;1;;20;Asia;0;0;0; -   ;N/A;Website;No
+Registration Started;2015;2015;Master;MBA;576;1;;32;Europe;0;0;3; 21.400,00 ;Type1;Family Academic staff;Yes
+Registration Started;2014;2014;Bachelor;BBA;577;0;;18;Africa;0;0;0; -   ;N/A;Website;Yes
+Acception notified;2014;2014;Bachelor;BBA;578;0;;20;Europe;0;0;0; -   ;N/A;Online study portal;No
+Acception notified;2014;2014;Bachelor;BBA;579;0;;20;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Bachelor;BBA;580;0;;20;Asia;0;0;0; -   ;N/A;Student Alumnus;No
+Registration Started;2014;2014;Bachelor;BBA;581;0;;18;Africa;0;0;0; -   ;N/A;Website;Yes
+First criteria not met;2014;2014;Bachelor;BBA;582;0;;20;Oceania;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Bachelor;BBA;583;1;;20;Africa;0;0;0; -   ;N/A;Radio;No
+Acception notified;2014;2014;Bachelor;BBA;584;0;;20;Africa;0;0;0; -   ;N/A;Other;No
+Registration Started;2014;2014;Bachelor;BBA;585;0;;18;Africa;0;0;0; -   ;N/A;Other;Yes
+First criteria not met;2014;2014;Bachelor;BBA;586;1;;20;Europe;0;0;0; -   ;N/A;Brochure;No
+Registration Started;2014;2014;Bachelor;BBA;587;0;;18;Europe;0;0;0; -   ;N/A;Other;Yes
+Acception notified;2014;2014;Bachelor;BBA;588;0;;20;Africa;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Bachelor;BBA;589;1;;20;Africa;0;0;0; -   ;N/A;Third part website;No
+First criteria not met;2014;2014;Bachelor;BBA;590;1;;20;Africa;0;0;0; -   ;N/A;Radio;No
+First criteria not met;2014;2014;Bachelor;BBA;591;1;;20;Asia;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Bachelor;BBA;592;1;;20;Africa;0;0;0; -   ;N/A;Other;No
+Registration Started;2014;2014;Bachelor;BBA;593;1;;21;Europe;0;0;0; -   ;N/A;Website;Yes
+Registered second time;2014;2014;Bachelor;BBA;594;0;;21;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;595;1;;21;Europe;0;0;3; -   ;Type1;Website;Yes
+Registered second time;2014;2014;Diploma;Summer MSCS;596;0;;37;Asia;0;0;0; -   ;N/A;Website;Yes
+First criteria not met;2015;2015;Master;MBE;597;1;;27;Europe;0;0;3; 11.400,00 ;N/A;Website;No
+Registration Started;2015;2015;Bachelor;BBA;598;0;;21;North America;0;0;3; 15.400,00 ;Type1;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;599;0;;21;Latin America;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;600;1;;18;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;601;1;;21;Europe;0;0;3; 2.450,00 ;Type1;Website;Yes
+Registration Started;2015;2015;Master;MBA;602;1;;27;Europe;0;0;3; 11.400,00 ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;603;0;;21;Africa;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;604;1;;21;Africa;0;0;3; 11.400,00 ;Type1;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;605;1;;21;Europe;0;0;3; -   ;Type1;Other;Yes
+Registration Started;2014;2014;Bachelor;BBA;606;0;;18;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;607;1;;21;Europe;0;1;1; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Bachelor;BBA;608;0;;18;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;609;0;;21;Africa;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2015;2015;Bachelor;BBA;610;1;;21;Europe;0;0;3; 1.736,00 ;N/A;Third part website;Yes
+Registration Started;2015;2015;Bachelor;BBA;611;1;;21;Africa;0;0;3; 51.400,00 ;Type1;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;612;1;;21;Africa;0;0;3; -   ;N/A;Student Alumnus;Yes
+Registration Started;2015;2015;Bachelor;BBA;613;1;;21;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Master;MBInf;614;1;;21;Europe;0;0;3; -   ;N/A;Scholarship;Yes
+Registration Started;2015;2015;Master;BIS;615;1;;21;Europe;0;0;3; -   ;N/A;Family Academic staff;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;616;0;;27;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;617;1;;18;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;618;1;;21;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Master;MBE;619;1;;21;Europe;0;0;3; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Bachelor;BBA;620;0;;18;Europe;0;0;0; -   ;N/A;Online study portal;Yes
+Registration Started;2014;2014;Bachelor;BBA;621;0;;18;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Master;MBA;622;0;;37;Oceania;3;0;3; 3.400,00 ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;623;1;;21;Europe;0;0;3; -   ;N/A;Student Alumnus;Yes
+Registration Started;2015;2015;Master;MBE;624;1;;21;Europe;0;0;3; -   ;N/A;Other;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;625;0;;21;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;626;0;;18;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;627;1;;21;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Master;MBE;628;0;;21;Europe;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;629;1;;21;Europe;0;0;3; -   ;N/A;Brochure;Yes
+Registration Started;2015;2015;Master;MBInf;630;0;;21;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;631;1;;21;Europe;0;0;3; -   ;Type1;Academic staff;Yes
+Acception notified;2015;2015;Diploma;Summer MSCS;632;1;;27;Asia;0;0;3; 16.400,00 ;N/A;Website;No
+Registration Started;2015;2015;Bachelor;BBA;633;1;;21;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MBE;634;1;;21;Europe;1;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2014;Bachelor;BBA;635;1;;21;Africa;0;0;0; -   ;N/A;Scholarship;Yes
+Registration Started;2014;2014;Bachelor;BBA;636;0;;21;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;637;1;;21;Africa;0;0;0; -   ;N/A;Social media;Yes
+Registration Started;2015;2015;Bachelor;BBA;638;0;;27;Europe;0;0;3; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Master;MSCS;639;1;;21;Europe;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Master;MBE;640;1;;21;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Diploma;Summer MBA;641;1;;21;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MFA;642;0;;21;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;643;1;;27;Europe;0;1;3; -   ;Type1;Website;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;644;0;;21;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;645;0;;18;Africa;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2015;2015;Master;MBE;646;0;;27;Europe;0;0;3; 21.400,00 ;Type1;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;647;1;;21;Africa;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Bachelor;BBA;648;1;;21;Africa;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Bachelor;BBA;649;0;;21;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;650;1;;18;Asia;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Bachelor;BBA;651;1;;21;Europe;0;0;0; -   ;N/A;Radio;Yes
+Registration Started;2014;2014;Master;MFA;652;1;;21;Europe;0;0;0; -   ;N/A;Online study portal;Yes
+Registration Started;2014;2014;Bachelor;BBA;653;1;;18;Africa;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Bachelor;BBA;654;0;;21;Europe;0;0;0; -   ;N/A;Online study portal;Yes
+Registration Started;2014;2014;Bachelor;BBA;655;1;;18;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;656;0;;21;Europe;0;0;0; -   ;N/A;Family Academic staff;Yes
+Registration Started;2014;2014;Master;MBA;657;0;;21;Europe;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Bachelor;BBA;658;0;;21;Europe;0;0;0; -   ;N/A;Brochure;Yes
+Registration Started;2015;2014;Master;MBE;659;0;;32;Africa;0;0;0; -   ;N/A;Online study portal;Yes
+Registration Started;2014;2014;Bachelor;BBA;660;1;;21;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;661;0;;18;Asia;1;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Master;MBE;662;0;;21;Europe;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Bachelor;BBA;663;1;;21;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;664;0;;18;Africa;0;0;0; -   ;N/A;Family Academic staff;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;665;0;;21;Europe;0;0;0; -   ;N/A;Student Alumnus;Yes
+First criteria not met;2015;2015;Bachelor;BBA;666;1;;21;Europe;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Master;MBA;667;1;;21;Europe;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Diploma;Summer MSCS;668;0;;21;Europe;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Diploma;Summer MSCS;669;0;;27;Europe;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Bachelor;BBA;670;1;;21;Europe;0;0;3; -   ;N/A;Website;No
+Registration Started;2014;2014;Bachelor;BBA;671;0;;18;Asia;0;0;0; -   ;N/A;Other;Yes
+First criteria not met;2015;2015;Bachelor;BBA;672;1;;21;Europe;0;0;3; 11.400,00 ;N/A;Academic staff;No
+Registration Started;2014;2014;Bachelor;BBA;673;1;;18;Asia;0;0;0; -   ;N/A;Other;Yes
+Acception notified;2015;2015;Bachelor;BBA;674;0;;21;Latin America;0;0;3; -   ;N/A;Student Alumnus;No
+Acception notified;2015;2015;Bachelor;BBA;675;1;;21;Europe;0;0;3; -   ;N/A;Other;No
+First criteria not met;2015;2015;Bachelor;BBA;676;1;;21;Africa;0;0;3; -   ;N/A;Website;No
+Registration Started;2014;2014;Bachelor;BBA;677;1;;18;Europe;0;0;0; -   ;N/A;Student Alumnus;Yes
+Proposal sent;2015;2015;Bachelor;BBA;678;0;;21;Europe;3;0;3; -   ;N/A;Website;No
+Registration Started;2015;2015;Bachelor;BBA;679;1;;21;Europe;0;0;3; 16.400,00 ;Type1;Other;No
+First criteria not met;2015;2015;Master;MBA;680;0;;21;Europe;0;0;3; -   ;N/A;Other;No
+Acception notified;2015;2015;Master;MBInf;681;0;;21;Europe;0;0;1; 3.200,00 ;Type1;Website;No
+First criteria not met;2015;2015;Master;MFA;682;0;;21;Europe;0;0;3; -   ;N/A;Student Alumnus;No
+Acception notified;2015;2015;Bachelor;BBA;683;1;;21;Europe;0;0;3; 21.400,00 ;N/A;Website;No
+First criteria not met;2014;2014;Diploma;Summer MSCS;684;1;;21;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Bachelor;BBA;685;0;;21;Europe;0;0;0; -   ;N/A;Other;No
+First criteria not met;2014;2014;Master;MFA;686;1;;21;Asia;0;0;0; -   ;N/A;Online study portal;No
+First criteria not met;2014;2014;Diploma;Summer MSCS;687;0;;21;Europe;0;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Diploma;Summer MSCS;688;0;;32;Europe;0;0;0; -   ;N/A;Website;Yes
+Acception notified;2014;2014;Bachelor;BBA;689;1;;21;Europe;0;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Bachelor;BBA;690;0;;18;Asia;0;0;0; -   ;N/A;Online study portal;Yes
+Registration Started;2014;2014;Bachelor;BBA;691;0;;18;Asia;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;692;1;;18;Asia;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;693;1;;18;Asia;0;0;0; -   ;N/A;Social media;Yes
+Acception notified;2014;2014;Bachelor;BBA;694;1;;21;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Bachelor;BBA;695;0;;21;Africa;0;0;0; -   ;N/A;Third part website;No
+First criteria not met;2014;2014;Master;MFA;696;1;;21;Europe;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Bachelor;BBA;697;1;;21;Africa;0;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Bachelor;BBA;698;0;;18;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;699;1;;21;Europe;0;0;0; -   ;N/A;Brochure;No
+Acception notified;2015;2014;Bachelor;BBA;700;0;;21;Africa;0;0;0; -   ;N/A;Online study portal;No
+Registration Started;2014;2014;Bachelor;BBA;701;0;;18;Asia;0;0;0; -   ;N/A;Website;Yes
+Acception notified;2014;2019;Bachelor;BBA;702;1;;21;Africa;0;0;0; -   ;N/A;Website;No
+Registration Started;2014;2019;Bachelor;BBA;703;1;;21;Africa;0;0;0; -   ;N/A;Other;No
+Registration Started;2014;2014;Bachelor;BBA;704;1;;18;Europe;0;0;0; -   ;N/A;Scholarship;Yes
+Acception notified;2014;2014;Master;MBA;705;0;;21;Latin America;N/A;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Bachelor;BBA;706;0;;21;Europe;0;0;0; -   ;N/A;Other;No
+First criteria not met;2014;2014;Bachelor;BBA;707;1;;21;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Master;MBA;708;0;;21;Europe;0;0;0; -   ;N/A;Website;No
+Acception notified;2015;2014;Diploma;Summer MBA;709;1;;21;Europe;0;0;0; -   ;N/A;Brochure;No
+Acception notified;2014;2014;Master;MFA;710;0;;21;Africa;0;0;0; -   ;N/A;Student Alumnus;No
+Registration Started;2014;2014;Bachelor;BBA;711;0;;18;Africa;0;0;0; -   ;N/A;Social media;Yes
+First criteria not met;2014;2014;Diploma;Summer MBA;712;1;;21;Africa;0;0;0; -   ;N/A;Scholarship;No
+Registration Started;2015;2015;Master;MBInf;713;1;;22;Europe;0;0;3; 1.600,00 ;N/A;Website;Yes
+Registration Started;2015;2015;Diploma;Summer MBA;714;1;;22;Europe;0;0;3; -   ;N/A;Scholarship;Yes
+Registration Started;2014;2015;Master;MBE;715;1;;22;Africa;0;0;3; 21.400,00 ;Type1;Website;Yes
+Registration Started;2014;2015;Master;MBE;716;0;;22;Africa;0;0;3; 51.400,00 ;Type1;Other;Yes
+Registration Started;2015;2015;Master;MBE;717;0;;22;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;718;1;;22;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;719;1;;37;Africa;1;0;0; -   ;N/A;Academic staff;Yes
+Registration Started;2014;2014;Master;MBInf;720;1;;22;Europe;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2015;2015;Bachelor;BBA;721;1;;22;Europe;1;0;3; 31.400,00 ;Type1;Website;Yes
+Registration Started;2015;2015;Master;MFA;722;0;;22;Africa;0;0;3; 41.400,00 ;Type1;Student Alumnus;Yes
+Registration Started;2015;2015;Bachelor;BBA;723;1;;22;Africa;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;724;0;;27;Europe;0;0;3; -   ;N/A;Website;Yes
+First criteria not met;2015;2015;Bachelor;BBA;725;0;;22;Africa;0;0;3; 9.900,00 ;N/A;Website;No
+Registration Started;2015;2015;Bachelor;BBA;726;0;;22;Africa;1;0;3; 16.400,00 ;N/A;Third part website;Yes
+Registration Started;2015;2015;Master;MBE;727;1;;22;Europe;3;0;3; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;728;1;;18;Africa;0;0;0; -   ;N/A;Social media;Yes
+Registration Started;2015;2015;Master;MBInf;729;1;;22;Europe;0;0;3; -   ;N/A;Scholarship;Yes
+Registration Started;2015;2015;Master;MBE;730;0;;22;Europe;0;0;3; -   ;N/A;Employer;Yes
+Registration Started;2015;2015;Master;MBInf;731;1;;22;Europe;0;0;3; 21.400,00 ;N/A;Website;Yes
+Registration Started;2015;2015;Master;MBE;732;1;;22;Africa;0;0;3; 13.400,00 ;Type1;Other;Yes
+Registration Started;2015;2015;Master;ME;733;1;;27;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MBA;734;0;;27;Europe;0;0;0; -   ;N/A;Family Academic staff;Yes
+Registration Started;2015;2015;Master;MSCS;735;1;;22;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;736;0;;18;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;737;1;;22;Africa;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;738;1;;18;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Master;MBInf;739;1;;22;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;740;1;;18;Asia;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Master;MBE;741;0;;22;Europe;0;0;3; -   ;N/A;Brochure;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;742;0;;22;Europe;0;0;3; 2.291,00 ;N/A;Scholarship;Yes
+Registration Started;2014;2014;Master;MSCS;743;1;;27;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Master;MBE;744;0;;22;Europe;0;0;3; -   ;N/A;Other;Yes
+Registration Started;2015;2015;Master;MFA;745;1;;22;Europe;0;1;3; 1.680,00 ;N/A;Family Academic staff;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;746;1;;22;Europe;0;0;3; 2.290,00 ;N/A;Google;Yes
+Registration Started;2015;2015;Bachelor;BBA;747;0;;22;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;748;1;;22;Europe;0;0;3; -   ;Type1;Student Alumnus;Yes
+Registration Started;2015;2015;Master;MBInf;749;1;;22;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;750;1;;22;Europe;0;0;3; -   ;Type1;Other;Yes
+Registration Started;2015;2015;Bachelor;BBA;751;1;;22;Africa;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;752;1;;18;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Master;MBA;753;0;;22;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;754;1;;22;Asia;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MSCS;755;0;;27;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MFA;756;0;;27;Africa;0;0;0; -   ;N/A;Family Academic staff;Yes
+First criteria not met;2014;2014;Master;MSCS;757;0;;27;Africa;0;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Master;MBInf;758;0;;27;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MBA;759;0;;22;Asia;0;0;0; -   ;N/A;Employer;Yes
+Registration Started;2015;2014;Master;MBE;760;1;;22;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2014;Diploma;Summer MSCS;761;0;;22;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2014;Master;MBE;762;0;;22;Africa;0;0;0; -   ;N/A;Website;Yes
+First criteria not met;2015;2014;Diploma;Summer MSCS;763;0;;22;Africa;0;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Master;MBE;764;1;;22;Europe;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Master;MBInf;765;1;;22;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MBInf;766;0;;22;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MFA;767;0;;22;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;768;1;;22;Europe;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Master;MBE;769;0;;22;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Diploma;Summer MBA;770;1;;22;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;771;1;;32;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;772;0;;18;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;773;0;;22;Africa;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Bachelor;BBA;774;0;;18;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;775;0;;22;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;776;0;;22;Europe;0;0;0; -   ;N/A;Online study portal;Yes
+Registration Started;2014;2014;Bachelor;BBA;777;1;;22;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MBInf;778;0;;22;Europe;0;0;0; -   ;N/A;Online study portal;Yes
+Registration Started;2014;2014;Master;ME;779;0;;32;Europe;1;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MBE;780;1;;27;Europe;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Bachelor;BBA;781;1;;22;Europe;0;0;0; -   ;N/A;Student Alumnus;Yes
+First criteria not met;2014;2014;Diploma;Summer MBA;782;0;;22;Europe;0;0;0; -   ;N/A;Student Alumnus;No
+Registration Started;2014;2014;Master;MBA;783;0;;22;Europe;0;0;1; 3.200,00 ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Master;MBA;784;0;;22;Europe;0;0;1; 3.200,00 ;N/A;Scholarship;Yes
+First criteria not met;2014;2014;Master;MBA;785;0;;22;Europe;0;0;0; -   ;N/A;Scholarship;No
+Registration Started;2014;2014;Master;MBE;786;1;;22;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MBA;787;1;;22;Europe;0;0;0; -   ;N/A;Other;Yes
+First criteria not met;2015;2015;Diploma;Summer MSCS;788;1;;32;Africa;1;0;3; 31.400,00 ;N/A;Website;No
+First criteria not met;2015;2015;Master;MBE;789;0;;32;Europe;1;1;3; 8.900,00 ;N/A;Academic staff;No
+Registration Started;2014;2014;Diploma;Summer MSCS;790;0;;22;Europe;0;0;0; -   ;N/A;Scholarship;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;791;1;;37;Europe;0;0;0; -   ;N/A;Online study portal;Yes
+Registration Started;2014;2014;Master;MBE;792;0;;22;Europe;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Master;MBE;793;0;;22;Europe;0;0;0; -   ;N/A;Social media;Yes
+Registration Started;2014;2014;Master;MBE;794;0;;22;Europe;2;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;795;0;;27;Europe;0;0;0; -   ;N/A;Academic staff;Yes
+Registration Started;2014;2014;Erasmus;Erasmus MBA;796;1;;22;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MBA;797;0;;22;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MBE;798;0;;22;Europe;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Diploma;Summer MBA;799;1;;22;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;800;1;;22;Europe;0;0;0; -   ;N/A;Employer;Yes
+Registration Started;2014;2014;Bachelor;BBA;801;1;;18;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Erasmus;Erasmus MBA;802;0;;22;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;803;0;;22;Europe;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Master;MSCS;804;0;;27;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;805;0;;22;Europe;0;0;0; -   ;N/A;Website;Yes
+First criteria not met;2015;2015;Erasmus;Erasmus MBA;806;1;;22;Europe;0;0;1; 3.200,00 ;N/A;Website;No
+First criteria not met;2014;2015;Master;MFA;807;1;;22;Africa;0;1;2; -   ;N/A;Website;No
+Acception notified;2015;2015;Master;MBE;808;1;;22;Africa;0;0;3; 21.400,00 ;Type1;Website;No
+First criteria not met;2015;2015;Master;MBA;809;0;;22;Africa;0;0;3; 11.400,00 ;N/A;Student Alumnus;No
+Acception notified;2015;2015;Bachelor;BBA;810;1;;22;Europe;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Master;MBE;811;0;;22;Europe;0;0;3; -   ;N/A;Scholarship;No
+Registration Started;2014;2014;Diploma;Summer MSCS;812;1;;27;North America;3;0;0; -   ;N/A;Website;Yes
+First criteria not met;2015;2015;Master;MBInf;813;0;;22;Europe;0;0;3; -   ;N/A;Website;No
+Registration Started;2014;2014;Bachelor;BBA;814;0;;18;Europe;0;0;0; -   ;N/A;Other;Yes
+First criteria not met;2015;2015;Master;MBE;815;0;;22;Europe;0;1;2; 8.900,00 ;Type1;Brochure;No
+Acception notified;2015;2015;Bachelor;BBA;816;0;;22;Europe;0;0;3; -   ;Type1;Website;No
+First criteria not met;2015;2015;Master;MBE;817;1;;22;Europe;0;0;3; -   ;N/A;Scholarship;No
+First criteria not met;2015;2015;Bachelor;BBA;818;1;;22;Europe;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Diploma;Summer MSCS;819;0;;27;Europe;0;0;3; -   ;N/A;Academic staff;No
+First criteria not met;2014;2015;Diploma;Summer MBA;820;0;;22;Latin America;0;0;3; -   ;N/A;Website;No
+Acception notified;2015;2015;Master;MBInf;821;0;;22;Africa;0;0;3; 22.400,00 ;Type1;Website;No
+Registered second time;2015;2015;Bachelor;BBA;822;1;;27;Africa;0;0;3; 11.400,00 ;N/A;Website;No
+First criteria not met;2015;2015;Master;MFA;823;1;;22;Europe;0;0;3; 11.400,00 ;N/A;Scholarship;No
+First criteria not met;2015;2015;Diploma;Summer MBA;824;0;;22;Europe;0;0;3; 2.400,00 ;N/A;Website;No
+First criteria not met;2015;2015;Diploma;Summer MSCS;825;1;;22;Europe;0;0;3; -   ;N/A;Website;No
+First criteria not met;2014;2015;Diploma;Summer MSCS;826;1;;22;Latin America;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Erasmus;Erasmus MBA;827;1;;22;Europe;0;0;3; -   ;N/A;Website;No
+Acception notified;2015;2014;Diploma;Summer MBA;828;0;;22;Oceania;1;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Bachelor;BBA;829;0;;18;Europe;0;0;0; -   ;N/A;Social media;Yes
+Acception notified;2014;2015;Master;MBA;830;1;;27;Africa;0;0;3; 11.400,00 ;Type1;Third part website;No
+First criteria not met;2014;2014;Diploma;Summer MSCS;831;1;;22;Africa;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Diploma;Summer MSCS;832;1;;22;Europe;0;0;0; -   ;N/A;Google;No
+First criteria not met;2014;2014;Master;MFA;833;0;;22;Africa;0;0;0; -   ;N/A;Third part website;No
+First criteria not met;2015;2014;Master;MBE;834;0;;22;Africa;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Bachelor;BBA;835;0;;22;Europe;0;0;0; -   ;N/A;Student Alumnus;No
+Acception notified;2014;2014;Master;MBE;836;0;;22;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Master;MBE;837;1;;22;Africa;0;0;0; -   ;N/A;Online study portal;No
+Acception notified;2015;2015;Bachelor;BBA;838;1;;32;Europe;0;0;3; 11.400,00 ;N/A;Website;No
+First criteria not met;2014;2014;Master;MBE;839;0;;22;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Master;MFA;840;1;;22;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Master;MFA;841;1;;22;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Master;MBA;842;0;;22;Europe;0;0;0; -   ;N/A;Other;No
+First criteria not met;2014;2014;Master;MBE;843;0;;22;Africa;0;0;0; -   ;N/A;Online study portal;No
+Acception notified;2015;2015;Master;MBE;844;0;;37;Europe;0;0;3; -   ;Type1;Website;No
+Acception notified;2015;2015;Master;MFA;845;1;;32;Asia;0;0;3; -   ;N/A;Website;No
+First criteria not met;2014;2014;Master;MBE;846;1;;22;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Master;MBA;847;1;;22;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Master;MFA;848;1;;22;Europe;0;0;0; -   ;N/A;Online study portal;No
+First criteria not met;2014;2014;Master;MBInf;849;1;;22;Europe;0;0;0; -   ;N/A;Website;No
+Acception notified;2015;2014;Master;MBA;850;0;;22;Africa;0;0;0; -   ;N/A;Student Alumnus;No
+Acception notified;2014;2014;Master;MBA;851;1;;22;Europe;0;0;0; -   ;N/A;Scholarship;No
+First criteria not met;2014;2014;Master;MFE;852;1;;22;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2015;2015;Master;MBE;853;0;;27;Africa;0;0;3; -   ;N/A;Website;No
+Registration Started;2014;2014;Bachelor;BBA;854;1;;18;Europe;0;0;0; -   ;N/A;Website;Yes
+First criteria not met;2014;2014;Master;MBA;855;0;;22;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2015;2014;Diploma;Summer MSCS;856;0;;22;Latin America;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Master;MSCS;857;0;;22;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Diploma;Summer MSCS;858;0;;22;Africa;0;0;0; -   ;N/A;Scholarship;No
+First criteria not met;2014;2014;Diploma;Summer MSCS;859;1;;22;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Diploma;Summer MSCS;860;1;;22;Europe;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Master;MSCS;861;0;;22;Europe;0;0;0; -   ;N/A;Website;No
+Registered second time;2014;2015;Diploma;Summer MSCS;862;0;;23;Europe;3;0;3; 31.400,00 ;N/A;Student Alumnus;Yes
+First criteria not met;2015;2015;Master;ME;863;0;;23;Europe;0;0;3; 2.600,00 ;N/A;Website;No
+Registration Started;2014;2014;Diploma;Summer MSCS;864;1;;23;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;865;0;;23;Europe;0;0;3; -   ;N/A;Other;Yes
+Registration Started;2015;2015;Bachelor;BBA;866;1;;23;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2014;2015;Master;MBE;867;0;;23;Africa;0;0;3; 13.400,00 ;Type1;Website;Yes
+Registration Started;2014;2015;Diploma;Summer MSCS;868;1;;23;Europe;0;0;3; -   ;N/A;Google;Yes
+First criteria not met;2014;2015;Diploma;Summer MSCS;869;1;;23;Europe;0;0;3; -   ;N/A;Google;No
+Registration Started;2014;2015;Bachelor;BBA;870;1;;23;Africa;0;0;3; -   ;Type1;Website;Yes
+First criteria not met;2014;2015;Diploma;Summer MBA;871;1;;23;Africa;0;0;3; 11.400,00 ;N/A;Website;No
+Registration Started;2014;2014;Bachelor;BBA;872;1;;18;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;873;0;;18;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;874;1;;18;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2015;Master;MBE;875;0;;23;Africa;0;0;3; 9.400,00 ;Type1;Website;Yes
+Registration Started;2014;2015;Diploma;Summer MSCS;876;0;;23;Africa;0;0;3; -   ;N/A;Website;Yes
+First criteria not met;2015;2015;Master;ME;877;0;;27;Africa;0;0;3; 16.400,00 ;N/A;Third part website;No
+First criteria not met;2015;2015;Master;MFA;878;0;;27;Europe;0;0;3; 21.400,00 ;N/A;Student Alumnus;No
+Registration Started;2015;2015;Diploma;Summer MSCS;879;1;;23;Europe;0;0;3; 51.400,00 ;N/A;Website;Yes
+Registration Started;2015;2015;Master;MBInf;880;0;;23;Africa;0;1;3; 8.900,00 ;Type1;Website;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;881;0;;23;Africa;0;0;3; 26.400,00 ;N/A;Student Alumnus;Yes
+First criteria not met;2014;2015;Master;MBE;882;1;;27;Latin America;0;0;3; 21.400,00 ;N/A;Website;No
+Registration Started;2014;2014;Bachelor;BBA;883;0;;23;Africa;0;0;3; 9.900,00 ;N/A;Website;Yes
+First criteria not met;2015;2015;Diploma;Summer MBA;884;0;;27;Africa;0;0;3; 36.400,00 ;N/A;Website;No
+First criteria not met;2015;2015;Diploma;Summer MSCS;885;1;;37;Europe;1;0;3; -   ;N/A;Website;No
+Registration Started;2015;2015;Diploma;Summer MSCS;886;1;;23;Africa;0;0;3; 39.400,00 ;N/A;Website;Yes
+Registration Started;2015;2015;Master;BIS;887;1;;23;Europe;0;0;3; 1.600,00 ;N/A;Website;Yes
+First criteria not met;2015;2015;Bachelor;BBA;888;1;;27;Africa;0;0;3; -   ;Type1;Website;No
+Registration Started;2015;2015;Master;MBInf;889;1;;23;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;890;0;;23;Europe;0;0;3; -   ;N/A;Student Alumnus;Yes
+Registration Started;2015;2015;Master;MBE;891;0;;23;Africa;0;0;3; -   ;Type1;Brochure;Yes
+Registration Started;2014;2014;Diploma;Summer MBA;892;0;;23;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;893;1;;23;Europe;0;0;3; -   ;N/A;Academic staff;Yes
+Registration Started;2015;2015;Diploma;Summer MBA;894;1;;23;Europe;0;0;3; -   ;N/A;Academic staff;Yes
+First criteria not met;2015;2015;Diploma;Summer MSCS;895;1;;23;Europe;0;0;3; -   ;N/A;Academic staff;No
+First criteria not met;2015;2015;Master;MBE;896;0;;32;Europe;1;1;3; 8.900,00 ;N/A;Academic staff;No
+Registration Started;2015;2015;Master;MBE;897;0;;23;Europe;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2015;2015;Erasmus;Erasmus MBA;898;0;;23;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;899;1;;23;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Master;MBE;900;1;;23;Europe;0;0;3; -   ;N/A;Website;Yes
+Acception notified;2015;2015;Bachelor;BBA;901;0;;18;Asia;0;0;3; -   ;N/A;Website;No
+Acception notified;2014;2015;Diploma;Summer MBA;902;0;;27;Europe;0;0;3; 11.400,00 ;N/A;Website;No
+Registration Started;2015;2015;Master;MBE;903;1;;23;Europe;0;0;3; -   ;N/A;Website;Yes
+Acception notified;2014;2015;Diploma;Summer MSCS;904;0;;27;Africa;0;0;3; -   ;N/A;Brochure;No
+First criteria not met;2015;2015;Diploma;Summer MSCS;905;0;;27;Europe;0;0;3; -   ;N/A;Website;No
+Acception notified;2015;2015;Diploma;Summer MSCS;906;1;;27;Africa;0;0;3; -   ;N/A;Website;No
+Registration Started;2015;2015;Master;MBE;907;1;;23;Europe;0;0;3; -   ;N/A;Website;Yes
+First criteria not met;2015;2015;Master;MSCS;908;1;;27;Africa;0;0;3; -   ;N/A;Website;No
+Registration Started;2015;2015;Master;MBA;909;0;;23;Europe;0;0;3; -   ;N/A;Family Academic staff;Yes
+Registration Started;2015;2015;Master;MBA;910;1;;23;Europe;0;0;3; -   ;N/A;Website;Yes
+Acception notified;2015;2015;Bachelor;BBA;911;0;;18;Europe;0;0;3; -   ;N/A;Scholarship;No
+First criteria not met;2014;2014;Diploma;Summer MBA;912;0;;32;Africa;1;0;0; -   ;N/A;Website;No
+Registration Started;2015;2015;Master;MBA;913;1;;23;Europe;0;0;3; 2.260,00 ;N/A;Website;Yes
+Registration Started;2015;2015;Master;MBE;914;0;;23;Europe;0;0;3; -   ;N/A;Other;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;915;1;;23;Europe;0;0;3; -   ;N/A;Website;Yes
+First criteria not met;2015;2015;Diploma;Summer MBA;916;0;;27;Africa;0;0;3; 21.400,00 ;N/A;Google;No
+First criteria not met;2014;2014;Master;MFE;917;1;;37;North America;0;0;0; -   ;N/A;Website;No
+Registration Started;2015;2015;Master;MBA;918;1;;23;Europe;0;0;3; -   ;N/A;Scholarship;Yes
+Registration Started;2015;2015;Master;MFA;919;1;;23;Europe;0;0;3; -   ;N/A;Student Alumnus;Yes
+Registration Started;2015;2015;Bachelor;BBA;920;1;;23;Europe;0;0;3; -   ;N/A;Website;Yes
+Acception notified;2014;2015;Bachelor;BBA;921;1;;18;Europe;0;0;3; -   ;N/A;Website;No
+Acception notified;2014;2014;Master;MBA;922;0;;32;Asia;0;1;1; 10.000,00 ;N/A;Website;No
+Registration Started;2015;2015;Bachelor;BBA;923;0;;23;Europe;0;0;3; -   ;Type1;Website;Yes
+First criteria not met;2014;2014;Master;MBE;924;0;;37;Africa;1;0;0; -   ;N/A;Website;No
+Registration Started;2015;2015;Master;MBE;925;1;;23;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;926;1;;23;Europe;0;0;3; -   ;N/A;Website;Yes
+First criteria not met;2014;2014;Diploma;Summer MSCS;927;0;;27;Africa;0;0;0; -   ;N/A;Website;No
+Registration Started;2015;2015;Master;MBE;928;1;;23;Europe;0;0;3; -   ;Type1;N/A;Yes
+Registration Started;2015;2015;Master;MBE;929;0;;23;Europe;0;0;3; -   ;Type1;Website;Yes
+First criteria not met;2014;2014;Diploma;Summer MSCS;930;1;;27;Africa;0;0;0; -   ;N/A;Social media;No
+Registration Started;2015;2015;Master;MBA;931;1;;23;Europe;0;0;3; -   ;Type1;Scholarship;Yes
+First criteria not met;2014;2014;Diploma;Summer MSCS;932;0;;27;North America;0;0;0; -   ;N/A;Student Alumnus;No
+Registration Started;2015;2015;Master;ME;933;1;;23;Europe;0;0;3; -   ;Type1;Academic staff;Yes
+Registration Started;2015;2014;Master;MSCS;934;1;;23;Europe;0;0;0; -   ;N/A;Website;Yes
+First criteria not met;2015;2015;Bachelor;BBA;935;0;;18;Europe;0;0;3; 6.400,00 ;N/A;Website;No
+Acception notified;2014;2014;Diploma;Summer MSCS;936;0;;27;Europe;0;0;0; -   ;N/A;Scholarship;No
+Registration Started;2015;2014;Diploma;Summer MSCS;937;0;;23;Africa;0;0;0; -   ;N/A;Social media;Yes
+First criteria not met;2014;2014;Master;ME;938;0;;27;Africa;1;0;0; -   ;N/A;Student Alumnus;No
+Registration Started;2014;2014;Bachelor;BBA;939;1;;23;Africa;0;0;0; -   ;N/A;Social media;Yes
+First criteria not met;2014;2015;Bachelor;BBA;940;0;;18;Europe;0;0;3; -   ;N/A;Third part website;No
+First criteria not met;2015;2015;Bachelor;BBA;941;1;;18;Africa;0;0;3; 2.400,00 ;N/A;Other;No
+Acception notified;2014;2014;Master;MFA;942;0;;27;North America;0;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Master;BIS;943;0;;23;Latin America;0;0;0; -   ;N/A;Website;Yes
+Acception notified;2014;2014;Master;MBA;944;1;;27;Europe;0;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Master;MBA;945;1;;23;Europe;0;0;0; -   ;N/A;Third part website;Yes
+First criteria not met;2014;2014;Master;MBA;946;1;;23;Europe;0;0;0; -   ;N/A;Third part website;No
+First criteria not met;2014;2014;Master;ME;947;1;;32;Latin America;0;0;0; -   ;N/A;Website;No
+First criteria not met;2015;2015;Bachelor;BBA;948;1;;18;Latin America;0;0;3; -   ;N/A;Website;No
+Acception notified;2014;2014;Master;MFA;949;1;;27;Africa;0;0;0; -   ;N/A;Student Alumnus;No
+First criteria not met;2015;2015;Bachelor;BBA;950;0;;18;Europe;0;0;3; -   ;N/A;Scholarship;No
+Registration Started;2014;2014;Master;MBA;951;0;;23;Europe;0;0;0; -   ;N/A;Online study portal;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;952;0;;23;Africa;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Master;MBE;953;0;;23;Asia;0;0;0; -   ;N/A;Website;Yes
+First criteria not met;2014;2014;Master;MFA;954;1;;27;Europe;0;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Bachelor;BBA;955;1;;23;North America;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Bachelor;BBA;956;1;;23;Africa;0;0;0; -   ;N/A;Social media;Yes
+Registration Started;2014;2014;Master;MSCS;957;1;;23;Europe;0;0;0; -   ;N/A;Employer;Yes
+Registration Started;2014;2014;Master;MBInf;958;1;;23;Europe;0;0;0; -   ;N/A;Website;Yes
+First criteria not met;2014;2014;Master;MBInf;959;1;;37;North America;0;0;0; -   ;N/A;Online study portal;No
+First criteria not met;2014;2014;Erasmus;Erasmus MBA;960;1;;37;Europe;0;0;0; -   ;N/A;Student Alumnus;No
+Acception notified;2014;2014;Bachelor;BBA;961;0;;27;Europe;0;0;3; -   ;N/A;Website;No
+First criteria not met;2014;2014;Master;MFA;962;1;;27;Latin America;0;0;3; -   ;N/A;Online study portal;No
+Registration Started;2014;2014;Diploma;Summer MSCS;963;0;;23;Europe;0;0;0; -   ;N/A;Online study portal;Yes
+Registration Started;2014;2014;Master;MBE;964;1;;23;Europe;0;0;0; -   ;N/A;Student Alumnus;Yes
+Acception notified;2014;2014;Master;MSCS;965;0;;27;Africa;0;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Diploma;Summer MBA;966;0;;23;Europe;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;967;1;;23;Asia;0;0;0; -   ;N/A;Scholarship;Yes
+Registration Started;2014;2014;Master;MBE;968;0;;23;Asia;0;0;0; -   ;N/A;Family Academic staff;Yes
+Registration Started;2014;2014;Diploma;Summer MBA;969;0;;23;Europe;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Master;MBE;970;0;;23;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MFA;971;1;;23;Europe;0;0;0; -   ;N/A;Online study portal;Yes
+Registration Started;2014;2014;Bachelor;BBA;972;1;;38;Asia;1;0;0; -   ;N/A;Online study portal;Yes
+Registration Started;2014;2014;Bachelor;BBA;973;1;;23;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Diploma;Summer MBA;974;1;;23;Europe;0;0;0; -   ;N/A;Website;Yes
+Acception notified;2014;2014;Bachelor;BBA;975;1;;38;Africa;0;0;0; -   ;N/A;Online study portal;No
+Registration Started;2014;2014;Erasmus;Erasmus MBA;976;0;;23;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MBE;977;0;;23;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MBA;978;0;;23;Europe;0;0;0; -   ;N/A;Website;Yes
+Acception notified;2015;2015;Bachelor;BBA;979;0;;18;Africa;3;0;3; -   ;Type1;Other;No
+Registration Started;2014;2014;Master;MFA;980;0;;23;Europe;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Bachelor;BBA;981;1;;23;Europe;0;0;0; -   ;N/A;Online study portal;Yes
+Registration Started;2014;2014;Master;MBA;982;0;;23;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;983;1;;23;Europe;0;0;0; -   ;N/A;Third part website;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;984;1;;23;Latin America;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MBA;985;0;;23;Europe;0;0;0; -   ;N/A;Website;Yes
+First criteria not met;2015;2015;Bachelor;BBA;986;1;;18;Europe;0;0;3; -   ;N/A;Other;No
+First criteria not met;2014;2014;Master;MBE;987;0;;27;Africa;0;0;0; -   ;N/A;Other;No
+Registration Started;2014;2014;Master;MSCS;988;1;;23;Africa;0;0;0; -   ;N/A;Third part website;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;989;1;;23;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MBA;990;0;;23;Europe;0;0;0; -   ;N/A;Website;Yes
+First criteria not met;2014;2014;Master;MBE;991;0;;27;Africa;1;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Master;MBE;992;0;;39;Europe;0;0;0; -   ;N/A;Website;Yes
+Acception notified;2015;2015;Bachelor;BBA;993;0;;18;Africa;0;0;3; 21.400,00 ;Type1;Website;No
+First criteria not met;2014;2014;Erasmus;Erasmus MBA;994;0;;27;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Master;MBA;995;1;;27;Europe;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Diploma;Summer MSCS;996;0;;27;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2015;Master;MFA;997;0;;23;Europe;0;1;3; -   ;N/A;Family Academic staff;No
+First criteria not met;2015;2015;Bachelor;BBA;998;0;;18;Europe;0;0;3; 6.400,00 ;N/A;Website;No
+First criteria not met;2014;2015;Master;MFA;999;1;;23;Latin America;0;0;3; -   ;N/A;Website;No
+Acception notified;2015;2015;Bachelor;BBA;1000;1;;18;Latin America;0;0;3; -   ;Type1;Website;No
+Acception notified;2014;2014;Master;MBA;1001;0;;27;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Diploma;Summer MSCS;1002;1;;27;Africa;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2015;Bachelor;BBA;1003;0;;23;Asia;0;0;3; 11.400,00 ;N/A;Family Academic staff;No
+Acception notified;2015;2015;Master;MBE;1004;0;;23;Europe;0;0;3; -   ;Type1;Website;No
+First criteria not met;2015;2015;Bachelor;BBA;1005;1;;18;Europe;0;0;3; -   ;N/A;Other;No
+First criteria not met;2015;2015;Master;MBE;1006;0;;23;Europe;0;0;3; -   ;N/A;Website;No
+First criteria not met;2014;2014;Diploma;Summer MBA;1007;1;;27;Africa;0;0;0; -   ;N/A;Student Alumnus;No
+First criteria not met;2015;2015;Master;MFA;1008;1;;23;Europe;0;0;3; -   ;N/A;Website;No
+Acception notified;2015;2015;Diploma;Summer MSCS;1009;1;;23;Europe;0;0;3; -   ;N/A;Google;No
+Registration Started;2015;2015;Diploma;Summer MSCS;1010;0;;28;Africa;0;0;3; -   ;N/A;Student Alumnus;Yes
+First criteria not met;2015;2015;Master;MFA;1011;0;;23;Africa;0;0;3; 16.400,00 ;N/A;Website;No
+Acception notified;2014;2015;Master;MBE;1012;0;;23;Europe;0;0;3; -   ;N/A;Other;No
+First criteria not met;2014;2015;Master;MBInf;1013;0;;23;Africa;0;0;3; 41.400,00 ;N/A;Student Alumnus;No
+Acception notified;2015;2015;Bachelor;BBA;1014;1;;18;Europe;0;0;3; -   ;N/A;Other;No
+First criteria not met;2015;2015;Master;MBInf;1015;0;;23;Africa;0;0;3; 51.400,00 ;N/A;Website;No
+Acception notified;2015;2015;Master;MSCS;1016;1;;23;Africa;0;0;3; -   ;Type1;Website;No
+First criteria not met;2014;2015;Bachelor;BBA;1017;1;;18;Africa;0;0;3; 4.400,00 ;N/A;Website;No
+Acception notified;2015;2015;Master;MFA;1018;1;;23;Europe;0;0;3; -   ;N/A;Website;No
+Registration Started;2014;2015;Bachelor;BBA;1019;1;;18;Asia;0;0;3; -   ;Type1;Student Alumnus;No
+Acception notified;2014;2014;Bachelor;BBA;1020;0;;32;Africa;0;0;0; -   ;N/A;Academic staff;No
+Registration Started;2014;2014;Master;MBE;1021;1;;32;Africa;0;0;0; -   ;N/A;Student Alumnus;No
+Acception notified;2014;2015;Master;MFA;1022;1;;23;Europe;0;0;3; -   ;N/A;Other;No
+Registered second time;2015;2015;Diploma;Summer MBA;1023;0;;28;Africa;0;0;3; 21.400,00 ;Type1;Brochure;Yes
+First criteria not met;2015;2015;Master;MFA;1024;1;;23;Europe;0;0;3; -   ;N/A;Student Alumnus;No
+First criteria not met;2015;2015;Bachelor;BBA;1025;1;;23;Europe;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Master;MBE;1026;0;;23;Europe;1;0;3; -   ;N/A;Student Alumnus;No
+First criteria not met;2015;2015;Master;MBInf;1027;0;;23;Africa;0;0;3; -   ;N/A;Website;No
+Registered second time;2015;2015;Diploma;Summer MSCS;1028;0;;28;Africa;1;0;1; 3.200,00 ;N/A;Website;Yes
+First criteria not met;2014;2014;Diploma;Summer MSCS;1029;0;;32;Africa;1;0;0; -   ;N/A;Website;No
+First criteria not met;2015;2015;Bachelor;BBA;1030;1;;18;Europe;0;0;3; -   ;N/A;Website;No
+Registration Started;2015;2015;Diploma;Summer MSCS;1031;1;;28;Europe;0;0;3; -   ;N/A;Website;Yes
+First criteria not met;2015;2015;Master;MBInf;1032;1;;23;Africa;0;0;3; 16.400,00 ;N/A;Website;No
+First criteria not met;2015;2015;Master;MSCS;1033;0;;23;Africa;0;0;3; 16.400,00 ;N/A;Website;No
+First criteria not met;2015;2015;Master;MBA;1034;0;;23;Europe;0;0;3; 16.400,00 ;N/A;Other;No
+Acception notified;2015;2015;Bachelor;BBA;1035;1;;18;Latin America;0;0;3; -   ;N/A;Other;No
+First criteria not met;2015;2015;Master;MBE;1036;1;;23;Europe;0;0;3; -   ;N/A;Student Alumnus;No
+Acception notified;2015;2015;Bachelor;BBA;1037;1;;18;Asia;0;0;3; -   ;Type1;Other;No
+Acception notified;2014;2014;Erasmus;Erasmus MBA;1038;0;;28;Africa;0;0;0; -   ;N/A;Academic staff;No
+First criteria not met;2014;2015;Master;MBA;1039;1;;23;Africa;0;0;3; 51.400,00 ;N/A;Website;No
+Registration Started;2014;2014;Master;MBE;1040;1;;28;Europe;0;1;1; -   ;N/A;Website;Yes
+First criteria not met;2015;2015;Master;MBE;1041;0;;23;Africa;0;0;3; 16.400,00 ;N/A;Website;No
+First criteria not met;2015;2015;Master;MSCS;1042;1;;23;Europe;0;0;3; -   ;N/A;Student Alumnus;No
+Registration Started;2014;2015;Bachelor;BBA;1043;0;;28;Africa;0;0;3; -   ;Type1;Website;Yes
+First criteria not met;2015;2015;Master;MBInf;1044;0;;23;Africa;0;0;3; 26.400,00 ;N/A;Website;No
+First criteria not met;2015;2015;Diploma;Summer MBA;1045;0;;23;Africa;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Diploma;Summer MBA;1046;0;;23;Europe;0;0;3; 2.200,00 ;N/A;Website;No
+Acception notified;2015;2015;Diploma;Summer MSCS;1047;0;;23;Europe;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Diploma;Summer MSCS;1048;1;;23;Europe;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Diploma;Summer MSCS;1049;1;;23;Africa;0;0;3; -   ;N/A;Website;No
+Acception notified;2014;2014;Diploma;Summer MSCS;1050;1;;32;Asia;0;0;0; -   ;N/A;Website;No
+Acception notified;2015;2015;Diploma;Summer MBA;1051;1;;23;Africa;0;0;3; -   ;N/A;Other;No
+First criteria not met;2015;2015;Diploma;Summer MBA;1052;1;;23;Europe;0;0;3; -   ;N/A;Academic staff;No
+First criteria not met;2015;2015;Bachelor;BBA;1053;0;;18;Asia;0;0;3; -   ;N/A;Other;No
+First criteria not met;2015;2015;Bachelor;BBA;1054;1;;23;Asia;0;0;3; 11.400,00 ;N/A;Other;No
+First criteria not met;2015;2015;Bachelor;BBA;1055;0;;23;Africa;0;0;3; 6.400,00 ;N/A;Radio;No
+Registration Started;2014;2015;Bachelor;BBA;1056;0;;28;Africa;3;0;3; 6.400,00 ;Type1;Website;Yes
+First criteria not met;2015;2015;Master;MBE;1057;0;;23;Europe;0;0;3; -   ;N/A;Other;No
+Registration Started;2014;2014;Diploma;Summer MBA;1058;1;;23;Europe;0;0;0; -   ;N/A;Student Alumnus;No
+First criteria not met;2014;2014;Diploma;Summer MSCS;1059;1;;23;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Master;MBA;1060;0;;23;Europe;0;0;0; -   ;N/A;Website;No
+Registration Started;2014;2015;Diploma;Summer MBA;1061;1;;28;North America;0;0;3; 19.400,00 ;N/A;Other;Yes
+First criteria not met;2014;2014;Diploma;Summer MSCS;1062;1;;23;Africa;0;0;0; -   ;N/A;Other;No
+Acception notified;2014;2014;Diploma;Summer MSCS;1063;1;;23;Europe;0;0;0; -   ;N/A;Website;No
+Acception notified;2015;2014;Master;MFA;1064;1;;23;Europe;0;0;0; -   ;N/A;Student Alumnus;No
+Acception notified;2014;2015;Bachelor;BBA;1065;1;;28;Africa;0;0;3; 15.400,00 ;N/A;Website;No
+Acception notified;2014;2014;Master;MFA;1066;0;;23;Asia;0;0;0; -   ;N/A;Website;No
+Registration Started;2014;2015;Diploma;Summer MSCS;1067;1;;28;Europe;0;0;3; 27.400,00 ;N/A;Website;Yes
+Acception notified;2014;2014;Master;MFA;1068;1;;23;Europe;0;0;0; -   ;N/A;Family Academic staff;No
+First criteria not met;2014;2015;Bachelor;BBA;1069;1;;18;Europe;0;0;3; 11.400,00 ;N/A;Third part website;No
+Registration Started;2014;2014;Master;MFA;1070;0;;28;Latin America;0;0;0; -   ;N/A;Website;Yes
+Acception notified;2014;2015;Bachelor;BBA;1071;1;;18;Latin America;0;0;3; -   ;N/A;Website;No
+Registration Started;2015;2015;Diploma;Summer MSCS;1072;1;;28;North America;0;0;1; 3.200,00 ;N/A;Website;Yes
+Acception notified;2014;2015;Bachelor;BBA;1073;1;;18;Africa;0;0;3; -   ;N/A;Website;No
+Acception notified;2014;2014;Master;MBInf;1074;1;;23;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2015;2015;Bachelor;BBA;1075;1;;18;Europe;0;0;3; -   ;Type1;Website;No
+Registration Started;2014;2014;Diploma;Summer MSCS;1076;1;;28;Asia;0;0;3; 16.400,00 ;N/A;Website;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;1077;0;;28;Africa;1;0;3; -   ;N/A;Website;Yes
+First criteria not met;2014;2014;Master;MBE;1078;1;;23;Europe;0;0;0; -   ;N/A;Website;No
+Registration Started;2015;2015;Master;MBE;1079;0;;28;Africa;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;1080;1;;33;Europe;0;0;3; -   ;N/A;Student Alumnus;Yes
+First criteria not met;2015;2015;Bachelor;BBA;1081;1;;18;Africa;0;0;3; 11.400,00 ;N/A;Other;No
+Registration Started;2015;2015;Diploma;Summer MSCS;1082;0;;33;Europe;2;0;3; -   ;N/A;Website;Yes
+Acception notified;2014;2014;Master;MBInf;1083;0;;23;Africa;0;0;0; -   ;N/A;Other;No
+Registration Started;2014;2014;Master;MFE;1084;0;;28;Europe;0;0;0; -   ;N/A;Student Alumnus;Yes
+First criteria not met;2014;2014;Bachelor;BBA;1085;0;;23;Latin America;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Master;MBA;1086;0;;23;Europe;0;0;0; -   ;N/A;Online study portal;No
+First criteria not met;2015;2015;Bachelor;BBA;1087;1;;18;Europe;0;0;3; -   ;N/A;Website;No
+Registration Started;2015;2015;Diploma;Summer MSCS;1088;1;;33;Oceania;1;0;3; -   ;N/A;Website;Yes
+First criteria not met;2015;2015;Bachelor;BBA;1089;1;;18;Europe;0;0;3; -   ;N/A;Academic staff;No
+First criteria not met;2015;2015;Master;ME;1090;1;;28;Africa;0;0;3; 14.400,00 ;N/A;Website;No
+First criteria not met;2015;2015;Master;ME;1091;1;;28;Africa;0;0;3; 9.400,00 ;N/A;Website;No
+Registration Started;2014;2014;Diploma;Summer MSCS;1092;1;;33;Africa;1;0;0; -   ;N/A;Academic staff;Yes
+Acception notified;2014;2014;Master;MBInf;1093;0;;23;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2015;2015;Diploma;Summer MBA;1094;0;;28;Africa;0;0;3; -   ;N/A;Website;No
+First criteria not met;2014;2014;Bachelor;BBA;1095;0;;23;Asia;0;0;0; -   ;N/A;Other;No
+First criteria not met;2015;2015;Master;MBE;1096;1;;28;Europe;0;0;3; -   ;N/A;Student Alumnus;No
+First criteria not met;2014;2014;Master;MBA;1097;0;;23;Europe;0;0;0; -   ;N/A;Online study portal;No
+First criteria not met;2014;2014;Master;BIS;1098;0;;33;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Bachelor;BBA;1099;0;;23;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Master;MBA;1100;1;;23;Europe;0;0;0; -   ;N/A;Other;No
+First criteria not met;2014;2014;Master;MSCS;1101;0;;23;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2015;2015;Master;MFA;1102;1;;28;North America;0;0;3; 16.400,00 ;N/A;Website;No
+Acception notified;2014;2014;Master;MBE;1103;0;;23;Asia;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Master;MBInf;1104;1;;23;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Bachelor;BBA;1105;1;;23;Europe;0;0;0; -   ;N/A;Student Alumnus;No
+Acception notified;2014;2015;Bachelor;BBA;1106;0;;18;Latin America;0;0;3; -   ;N/A;Website;No
+Acception notified;2015;2014;Master;MFA;1107;1;;23;Asia;0;0;0; -   ;N/A;Third part website;No
+Acception notified;2014;2014;Bachelor;BBA;1108;0;;23;Africa;1;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Master;MFA;1109;1;;23;Africa;0;0;0; -   ;N/A;Other;No
+Acception notified;2015;2015;Bachelor;BBA;1110;0;;18;Asia;0;0;3; -   ;Type1;Third part website;No
+Acception notified;2014;2014;Bachelor;BBA;1111;0;;23;North America;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Master;MFA;1112;1;;23;Africa;0;0;0; -   ;N/A;Family Academic staff;No
+First criteria not met;2015;2015;Master;MFA;1113;1;;28;Africa;0;0;3; 14.400,00 ;Type1;Website;No
+First criteria not met;2014;2014;Master;ME;1114;1;;23;Europe;0;0;0; -   ;N/A;Online study portal;No
+First criteria not met;2014;2014;Master;MBA;1115;0;;23;Europe;0;0;0; -   ;N/A;Other;No
+First criteria not met;2014;2014;Diploma;Summer MSCS;1116;0;;23;Europe;0;0;0; -   ;N/A;Academic staff;No
+First criteria not met;2014;2014;Master;MBA;1117;0;;23;Europe;0;0;0; -   ;N/A;Online study portal;No
+First criteria not met;2014;2014;Diploma;Summer MSCS;1118;0;;23;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2015;2015;Master;MSCS;1119;0;;28;Africa;3;1;1; -   ;N/A;Student Alumnus;No
+Registration Started;2014;2014;Bachelor;BBA;1120;1;;39;Europe;1;0;0; -   ;N/A;Website;Yes
+Acception notified;2014;2014;Diploma;Summer MSCS;1121;1;;23;Asia;0;0;0; -   ;N/A;Website;No
+Acception notified;2015;2015;Master;MSCS;1122;1;;28;Africa;1;0;3; -   ;Type1;Website;No
+Acception notified;2015;2014;Diploma;Summer MSCS;1123;0;;23;Africa;0;0;0; -   ;N/A;Online study portal;No
+Acception notified;2014;2014;Diploma;Summer MSCS;1124;0;;39;Europe;1;0;0; -   ;N/A;Academic staff;No
+Registration Started;2014;2014;Master;MBInf;1125;0;;33;Europe;0;0;0; -   ;N/A;Website;Yes
+First criteria not met;2014;2014;Erasmus;Erasmus MBA;1126;0;;23;Europe;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Diploma;Summer MSCS;1127;1;;23;Asia;0;0;0; -   ;N/A;Other;No
+First criteria not met;2015;2015;Master;MFA;1128;1;;28;Africa;0;0;3; 9.400,00 ;N/A;Website;No
+Acception notified;2014;2014;Diploma;Summer MSCS;1129;1;;23;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2015;2015;Master;MBE;1130;0;;28;Africa;0;0;3; -   ;N/A;Social media;No
+First criteria not met;2015;2015;Diploma;Summer MSCS;1131;0;;28;Latin America;0;0;3; -   ;N/A;Website;No
+Acception notified;2015;2015;Master;MSCS;1132;0;;24;Africa;1;0;3; -   ;N/A;Website;No
+Registration Started;2014;2014;Master;MFA;1133;1;;24;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;1134;0;;24;Europe;0;0;3; 11.400,00 ;N/A;Website;Yes
+Registered second time;2015;2015;Diploma;Summer MSCS;1135;1;;24;Africa;0;0;3; -   ;Type1;N/A;Yes
+Registration Started;2015;2015;Erasmus;Erasmus MBA;1136;1;;28;Europe;0;0;3; 3.000,00 ;N/A;Website;No
+First criteria not met;2014;2015;Diploma;Summer MSCS;1137;0;;28;Europe;0;0;3; 14.735,00 ;N/A;Website;No
+First criteria not met;2015;2014;Diploma;Summer MSCS;1138;1;;39;Europe;1;0;0; -   ;N/A;Online study portal;No
+First criteria not met;2014;2014;Master;ME;1139;0;;24;Europe;0;0;3; 2.600,00 ;N/A;Website;No
+Registration Started;2015;2015;Master;MSCS;1140;1;;24;Europe;0;0;3; -   ;N/A;Website;Yes
+Registered second time;2014;2014;Master;MBE;1141;0;;24;Europe;0;0;0; -   ;N/A;Website;Yes
+First criteria not met;2015;2015;Diploma;Summer MSCS;1142;0;;28;Europe;0;0;1; 3.200,00 ;N/A;Website;No
+Registered second time;2015;2015;Diploma;Summer MSCS;1143;1;;24;Europe;0;0;3; -   ;N/A;Website;Yes
+First criteria not met;2014;2014;Master;BIS;1144;1;;28;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Master;MBE;1145;0;;28;Africa;0;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Master;MFE;1146;1;;40;Africa;1;0;0; -   ;N/A;Academic staff;Yes
+First criteria not met;2014;2014;Diploma;Summer MSCS;1147;1;;28;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2015;2015;Master;MSCS;1148;1;;24;Africa;0;0;3; 11.400,00 ;N/A;Website;No
+Registration Started;2015;2015;Master;MBE;1149;1;;24;Africa;0;0;3; 11.400,00 ;Type1;Website;Yes
+Registration Started;2015;2015;Master;MSCS;1150;1;;24;Europe;0;0;3; 5.810,00 ;N/A;Other;Yes
+Registered second time;2014;2014;Master;MFE;1151;1;;24;Africa;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2015;2015;Erasmus;Erasmus MBA;1152;0;;24;Europe;0;0;3; -   ;N/A;Scholarship;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;1153;1;;24;Africa;0;0;3; 21.400,00 ;N/A;Scholarship;Yes
+Registration Started;2015;2015;Master;MSCS;1154;1;;24;Africa;0;0;3; -   ;Type1;Website;Yes
+Acception notified;2014;2014;Master;MBInf;1155;1;;28;North America;0;0;0; -   ;N/A;Website;No
+Registration Started;2015;2015;Diploma;Summer MBA;1156;0;;24;Africa;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;1157;0;;24;Europe;0;0;3; -   ;N/A;Website;Yes
+First criteria not met;2014;2014;Master;MBA;1158;1;;28;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2015;2015;Bachelor;BBA;1159;1;;40;Europe;1;0;3; -   ;N/A;Website;No
+Registration Started;2015;2015;Master;MFA;1160;0;;24;Europe;0;0;3; -   ;N/A;Website;Yes
+Acception notified;2014;2014;Master;MFA;1161;1;;28;Africa;0;0;0; -   ;N/A;Third part website;No
+Acception notified;2014;2014;Bachelor;BBA;1162;0;;28;Latin America;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2015;Bachelor;BBA;1163;0;;18;Africa;0;0;3; -   ;Type1;Website;No
+First criteria not met;2014;2015;Bachelor;BBA;1164;1;;18;Latin America;0;0;3; -   ;N/A;Website;No
+Registration Started;2015;2015;Master;MBE;1165;0;;24;Europe;0;1;3; 8.900,00 ;Type1;Website;Yes
+Registration Started;2015;2015;Diploma;Summer MBA;1166;0;;24;Europe;3;0;3; 11.400,00 ;N/A;Website;Yes
+First criteria not met;2014;2014;Bachelor;BBA;1167;0;;28;Europe;1;0;0; -   ;N/A;Brochure;No
+Registration Started;2015;2015;Master;MSCS;1168;1;;24;Africa;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Master;MFA;1169;1;;24;North America;0;0;3; 16.400,00 ;Type1;Website;Yes
+Registration Started;2015;2015;Master;MBE;1170;0;;24;Europe;0;0;3; 21.400,00 ;N/A;Other;Yes
+Acception notified;2014;2014;Bachelor;BBA;1171;1;;28;Africa;0;0;3; -   ;Type1;Website;No
+Registration Started;2015;2015;Master;MFA;1172;1;;24;Europe;0;0;3; 31.400,00 ;N/A;Other;Yes
+Registration Started;2015;2015;Master;MBA;1173;0;;24;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Master;ME;1174;1;;24;Europe;0;0;3; 3.150,00 ;N/A;Academic staff;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;1175;1;;24;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;1176;0;;24;Europe;0;0;3; -   ;N/A;Student Alumnus;Yes
+First criteria not met;2014;2014;Master;MBA;1177;1;;28;Asia;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2015;Bachelor;BBA;1178;1;;18;Africa;0;0;3; -   ;N/A;Website;No
+Registration Started;2015;2015;Bachelor;BBA;1179;1;;24;Europe;0;0;3; 2.250,00 ;N/A;Website;Yes
+Registration Started;2015;2015;Master;MBE;1180;1;;24;Europe;0;0;3; 2.200,00 ;N/A;Family Academic staff;Yes
+Registration Started;2015;2015;Master;MBE;1181;0;;24;Europe;0;0;3; -   ;N/A;Website;Yes
+First criteria not met;2015;2015;Diploma;Summer MSCS;1182;0;;24;Europe;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Master;MBInf;1183;0;;33;Africa;1;0;3; 51.400,00 ;N/A;Website;No
+First criteria not met;2015;2014;Master;MBInf;1184;1;;28;North America;0;0;0; -   ;N/A;Third part website;No
+Registration Started;2015;2015;Diploma;Summer MSCS;1185;1;;24;Europe;0;0;3; -   ;N/A;Website;Yes
+First criteria not met;2014;2014;Diploma;Summer MSCS;1186;0;;28;Europe;0;0;0; -   ;N/A;Scholarship;No
+First criteria not met;2014;2014;Diploma;Summer MSCS;1187;1;;28;Europe;0;0;0; -   ;N/A;Other;No
+Acception notified;2015;2015;Master;MBInf;1188;0;;24;Africa;0;0;3; -   ;Type1;Website;No
+Registration Started;2015;2015;Bachelor;BBA;1189;1;;41;Europe;0;0;3; 2.100,00 ;N/A;Website;Yes
+Registration Started;2015;2015;Master;MBE;1190;1;;24;Europe;0;0;3; 43.400,00 ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MSCS;1191;1;;29;Asia;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;1192;0;;29;Europe;1;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;1193;1;;24;Europe;0;0;3; -   ;N/A;Google;Yes
+Acception notified;2014;2014;Diploma;Summer MSCS;1194;1;;29;Asia;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Diploma;Summer MSCS;1195;1;;33;Asia;1;0;0; -   ;N/A;Online study portal;No
+First criteria not met;2014;2014;Diploma;Summer MSCS;1196;1;;33;Africa;0;0;0; -   ;N/A;Student Alumnus;No
+First criteria not met;2015;2015;Master;MSCS;1197;0;;42;Europe;1;0;3; 2.300,00 ;N/A;Website;No
+Acception notified;2014;2014;Diploma;Summer MSCS;1198;0;;33;Europe;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Diploma;Summer MSCS;1199;1;;29;Asia;0;0;0; -   ;N/A;Academic staff;No
+Registration Started;2014;2014;Master;MBE;1200;1;;24;Europe;0;0;0; -   ;N/A;Other;Yes
+First criteria not met;2014;2014;Master;MBE;1201;0;;33;Europe;1;1;3; 8.900,00 ;N/A;Academic staff;No
+First criteria not met;2015;2015;Master;MFA;1202;1;;24;Europe;0;0;3; -   ;N/A;Academic staff;No
+Registration Started;2015;2015;Bachelor;BBA;1203;0;;24;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MBA;1204;0;;24;Asia;0;0;0; -   ;N/A;Academic staff;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;1205;0;;42;Europe;1;0;3; 2.300,00 ;N/A;Website;Yes
+Registration Started;2015;2015;Bachelor;BBA;1206;1;;24;Africa;0;0;3; -   ;N/A;Website;Yes
+Registered second time;2015;2015;Diploma;Summer MBA;1207;0;;29;Africa;3;0;3; -   ;N/A;N/A;Yes
+Registration Started;2015;2014;Bachelor;BBA;1208;1;;29;Africa;0;0;3; 15.400,00 ;N/A;Website;Yes
+Registration Started;2015;2014;Master;MFA;1209;1;;24;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Diploma;Summer MBA;1210;0;;24;Latin America;1;0;0; -   ;N/A;Other;Yes
+Acception notified;2014;2014;Master;MFE;1211;1;;33;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Diploma;Summer MSCS;1212;1;;42;Africa;1;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Master;MBA;1213;0;;24;Africa;0;0;0; -   ;N/A;Academic staff;Yes
+Registration Started;2014;2014;Master;MBE;1214;1;;24;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Master;MBA;1215;0;;29;North America;0;0;3; -   ;Type1;Family Academic staff;Yes
+Registration Started;2014;2014;Master;MFA;1216;1;;24;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;1217;0;;24;Europe;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Master;ME;1218;1;;29;Africa;1;1;3; 8.900,00 ;N/A;Online study portal;Yes
+Registration Started;2014;2014;Master;ME;1219;1;;24;Europe;0;0;0; -   ;N/A;Website;Yes
+Registered second time;2014;2014;Master;MBE;1220;1;;24;Europe;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Master;MBA;1221;1;;24;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;1222;1;;24;North America;0;0;0; -   ;N/A;Google;Yes
+Acception notified;2015;2014;Bachelor;BBA;1223;0;;18;Europe;0;0;0; -   ;N/A;Other;No
+Registration Started;2015;2015;Master;MBE;1224;0;;29;Africa;0;0;3; -   ;Type1;Website;Yes
+First criteria not met;2015;2015;Diploma;Summer MBA;1225;0;;29;Africa;0;0;3; -   ;N/A;Website;No
+Registration Started;2015;2015;Master;MBA;1226;1;;29;Latin America;0;0;3; -   ;N/A;Employer;Yes
+Acception notified;2014;2014;Master;MBA;1227;1;;24;Africa;0;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Diploma;Summer MSCS;1228;0;;24;Africa;0;0;0; -   ;N/A;Website;Yes
+Acception notified;2014;2014;Bachelor;BBA;1229;1;;18;Africa;0;0;0; -   ;N/A;Student Alumnus;No
+Registration Started;2014;2014;Diploma;Summer MSCS;1230;0;;24;Europe;0;0;0; -   ;N/A;Website;Yes
+Acception notified;2014;2014;Bachelor;BBA;1231;1;;18;Latin America;0;0;0; -   ;N/A;Third part website;No
+Registration Started;2014;2014;Diploma;Summer MBA;1232;1;;24;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MBInf;1233;1;;24;Africa;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;1234;0;;24;Europe;0;0;0; -   ;N/A;Website;Yes
+First criteria not met;2014;2014;Master;MBInf;1235;0;;33;Europe;1;0;3; 11.400,00 ;N/A;Academic staff;No
+Registration Started;2014;2014;Diploma;Summer MSCS;1236;1;;24;Europe;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Master;MBA;1237;0;;24;Europe;0;0;0; -   ;N/A;Scholarship;Yes
+First criteria not met;2015;2015;Diploma;Summer MBA;1238;1;;29;Latin America;0;0;3; -   ;N/A;Employer;No
+Registration Started;2014;2014;Master;MBE;1239;1;;24;Europe;0;0;0; -   ;N/A;Online study portal;Yes
+First criteria not met;2014;2014;Bachelor;BBA;1240;0;;18;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2015;2015;Master;MBA;1241;0;;29;Europe;0;0;3; -   ;N/A;Website;No
+Registration Started;2014;2014;Bachelor;BBA;1242;1;;43;Europe;0;0;0; -   ;N/A;Website;No
+Registration Started;2015;2015;Diploma;Summer MBA;1243;1;;29;Europe;0;0;1; 3.200,00 ;Type1;Student Alumnus;Yes
+Registration Started;2014;2014;Master;MBInf;1244;1;;24;Europe;0;0;0; -   ;N/A;Online study portal;Yes
+First criteria not met;2014;2014;Bachelor;BBA;1245;1;;18;Europe;0;0;0; -   ;N/A;Other;No
+Registration Started;2014;2014;Diploma;Summer MBA;1246;1;;24;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;1247;1;;24;Europe;0;0;0; -   ;N/A;Website;Yes
+First criteria not met;2014;2014;Bachelor;BBA;1248;0;;18;Europe;0;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Master;MSCS;1249;1;;24;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MBE;1250;0;;29;Europe;0;0;0; -   ;N/A;Website;Yes
+First criteria not met;2014;2014;Master;MBA;1251;1;;33;North America;0;0;1; 3.200,00 ;N/A;Website;No
+First criteria not met;2014;2014;Bachelor;BBA;1252;1;;18;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Master;MBE;1253;1;;24;Europe;0;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Bachelor;BBA;1254;1;;24;Africa;0;0;0; -   ;N/A;Third part website;Yes
+Registration Started;2014;2014;Master;MFA;1255;0;;24;Europe;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Diploma;Summer MBA;1256;0;;24;Africa;0;0;0; -   ;N/A;Social media;Yes
+Acception notified;2014;2014;Bachelor;BBA;1257;0;;18;Africa;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Bachelor;BBA;1258;0;;18;Europe;0;0;0; -   ;N/A;Brochure;No
+Registration Started;2014;2014;Erasmus;Erasmus MBA;1259;0;;24;Europe;0;0;0; -   ;N/A;Scholarship;Yes
+Registration Started;2014;2014;Master;MBA;1260;1;;29;Africa;0;0;0; -   ;N/A;Social media;Yes
+Registration Started;2015;2015;Master;ME;1261;1;;44;Europe;3;0;3; 11.400,00 ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MBA;1262;0;;24;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MBE;1263;1;;24;Europe;0;0;0; -   ;N/A;Family Academic staff;Yes
+Registration Started;2014;2014;Master;ME;1264;1;;29;North America;0;1;1; 2.900,00 ;Other;Family Academic staff;Yes
+Registration Started;2014;2014;Master;MBA;1265;1;;24;Europe;0;0;0; -   ;N/A;Other;Yes
+First criteria not met;2014;2014;Master;MBA;1266;0;;33;Europe;3;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Master;BIS;1267;1;;24;Europe;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;1268;1;;29;Europe;3;0;0; -   ;N/A;Website;Yes
+First criteria not met;2014;2014;Diploma;Summer MBA;1269;0;;24;Africa;0;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Master;MBE;1270;0;;24;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;1271;1;;29;Africa;0;0;0; -   ;N/A;Website;Yes
+Acception notified;2014;2014;Bachelor;BBA;1272;1;;18;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Bachelor;BBA;1273;0;;18;Africa;0;0;0; -   ;N/A;Online study portal;No
+First criteria not met;2014;2014;Bachelor;BBA;1274;1;;18;Africa;0;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Diploma;Summer MSCS;1275;0;;24;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MBInf;1276;1;;24;Europe;0;0;0; -   ;N/A;Website;Yes
+Acception notified;2015;2014;Bachelor;BBA;1277;1;;18;Asia;0;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Master;MBA;1278;0;;24;North America;0;0;0; -   ;N/A;Student Alumnus;Yes
+Proposal sent;2015;2015;Master;MBE;1279;1;;44;Europe;0;0;3; 16.400,00 ;N/A;Student Alumnus;No
+First criteria not met;2015;2015;Master;MSCS;1280;0;;24;Africa;0;0;3; -   ;N/A;Other;No
+Registration Started;2014;2014;Master;MBInf;1281;0;;29;Africa;1;0;0; -   ;N/A;Website;Yes
+First criteria not met;2015;2015;Diploma;Summer MBA;1282;0;;24;Europe;0;0;3; -   ;N/A;Website;No
+Acception notified;2015;2015;Diploma;Summer MBA;1283;0;;24;Europe;0;0;3; -   ;N/A;Website;No
+Acception notified;2014;2014;Bachelor;BBA;1284;1;;18;Asia;0;0;0; -   ;N/A;Third part website;No
+First criteria not met;2015;2015;Diploma;Summer MSCS;1285;1;;29;Latin America;0;0;1; 3.200,00 ;N/A;Website;No
+First criteria not met;2015;2015;Master;MBE;1286;0;;24;Africa;0;0;3; 21.400,00 ;N/A;Website;No
+First criteria not met;2015;2015;Diploma;Summer MSCS;1287;1;;29;Latin America;0;0;1; 3.200,00 ;N/A;Website;No
+First criteria not met;2015;2015;Master;MBE;1288;0;;29;Europe;0;0;3; 16.400,00 ;N/A;Website;No
+First criteria not met;2015;2015;Bachelor;BBA;1289;1;;24;Africa;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Master;MBInf;1290;0;;24;Europe;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Bachelor;BBA;1291;1;;24;Asia;0;0;3; 6.400,00 ;N/A;Scholarship;No
+Acception notified;2015;2015;Master;MBA;1292;1;;24;Europe;0;0;3; -   ;N/A;Other;No
+Acception notified;2015;2015;Master;MBE;1293;0;;29;Asia;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Master;MBE;1294;1;;24;Europe;0;0;3; -   ;N/A;Student Alumnus;No
+Acception notified;2015;2015;Master;MFA;1295;0;;24;Europe;0;0;3; 13.400,00 ;N/A;Website;No
+First criteria not met;2015;2015;Master;MSCS;1296;1;;29;Europe;0;0;3; 16.400,00 ;N/A;Website;No
+Acception notified;2015;2015;Master;MFA;1297;1;;24;North America;0;0;3; 16.400,00 ;Type1;Student Alumnus;No
+First criteria not met;2015;2015;Bachelor;BBA;1298;1;;29;Africa;0;0;3; -   ;N/A;N/A;No
+First criteria not met;2014;2014;Bachelor;BBA;1299;1;;18;Africa;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Bachelor;BBA;1300;0;;18;Africa;0;0;0; -   ;N/A;Website;No
+Acception notified;2015;2015;Master;MBA;1301;1;;24;Africa;0;0;3; 59.263,00 ;Type1;Website;No
+First criteria not met;2015;2015;Master;MFA;1302;1;;24;North America;0;1;1; -   ;N/A;Family Academic staff;No
+First criteria not met;2015;2015;Master;MBInf;1303;0;;24;Europe;0;0;3; -   ;N/A;Student Alumnus;No
+First criteria not met;2015;2015;Master;MBA;1304;1;;24;Europe;0;0;3; -   ;N/A;Student Alumnus;No
+Acception notified;2015;2015;Master;MBInf;1305;1;;24;Latin America;0;0;3; -   ;N/A;Student Alumnus;No
+First criteria not met;2015;2015;Bachelor;BBA;1306;0;;24;Europe;0;0;3; -   ;N/A;Other;No
+Registered second time;2015;2015;Diploma;Summer MSCS;1307;1;;29;Africa;1;0;3; -   ;Type1;Website;No
+First criteria not met;2015;2015;Erasmus;Erasmus MBA;1308;1;;24;Europe;0;0;3; -   ;N/A;Other;No
+First criteria not met;2015;2015;Master;MSCS;1309;0;;24;Africa;0;0;3; 16.400,00 ;N/A;Student Alumnus;No
+Registration Started;2015;2015;Master;MBA;1310;1;;29;North America;3;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Erasmus;Erasmus MBA;1311;0;;24;Europe;0;0;3; -   ;N/A;Scholarship;No
+Acception notified;2015;2015;Master;MBE;1312;1;;24;Europe;0;0;3; -   ;N/A;Student Alumnus;No
+First criteria not met;2015;2015;Master;MBE;1313;0;;24;Europe;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Erasmus;Erasmus MBA;1314;0;;24;Europe;0;0;3; -   ;N/A;Scholarship;No
+Acception notified;2015;2015;Diploma;Summer MSCS;1315;1;;24;North America;0;0;3; -   ;N/A;Student Alumnus;No
+Acception notified;2015;2015;Diploma;Summer MSCS;1316;0;;24;Europe;0;0;3; 6.400,00 ;N/A;Student Alumnus;No
+Acception notified;2014;2015;Master;ME;1317;1;;29;Europe;0;0;3; -   ;N/A;Website;No
+Acception notified;2015;2015;Master;MBInf;1318;1;;34;Asia;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Diploma;Summer MSCS;1319;0;;24;Europe;0;0;3; 11.400,00 ;N/A;Online study portal;No
+First criteria not met;2015;2015;Diploma;Summer MSCS;1320;0;;24;Europe;0;0;3; -   ;N/A;Website;No
+Acception notified;2014;2015;Diploma;Summer MBA;1321;0;;24;Africa;0;0;1; 3.200,00 ;N/A;Google;No
+First criteria not met;2015;2015;Diploma;Summer MSCS;1322;1;;44;Europe;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Diploma;Summer MBA;1323;1;;24;North America;0;0;1; 3.200,00 ;N/A;Website;No
+Acception notified;2015;2015;Diploma;Summer MSCS;1324;0;;34;Asia;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Diploma;Summer MSCS;1325;1;;24;Europe;0;0;3; -   ;N/A;Other;No
+Acception notified;2014;2014;Erasmus;Erasmus MBA;1326;0;;24;Africa;0;0;0; -   ;N/A;Student Alumnus;No
+First criteria not met;2015;2015;Master;MBE;1327;0;;29;Africa;0;0;3; 26.400,00 ;N/A;Other;No
+Acception notified;2014;2014;Bachelor;BBA;1328;1;;18;Latin America;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Diploma;Summer MSCS;1329;1;;24;Asia;0;0;0; -   ;N/A;Website;No
+Acception notified;2015;2015;Master;MFA;1330;0;;29;North America;0;0;3; 31.400,00 ;Type1;Website;No
+First criteria not met;2014;2014;Diploma;Summer MBA;1331;0;;29;Africa;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Bachelor;BBA;1332;0;;18;Asia;0;0;0; -   ;N/A;Other;No
+First criteria not met;2014;2014;Diploma;Summer MSCS;1333;0;;24;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Diploma;Summer MBA;1334;0;;24;Asia;0;0;0; -   ;N/A;Academic staff;No
+First criteria not met;2014;2014;Diploma;Summer MBA;1335;1;;29;Africa;0;0;0; -   ;N/A;Website;No
+Registered second time;2014;2014;Diploma;Summer MSCS;1336;0;;29;Asia;0;0;0; -   ;N/A;Online study portal;No
+Acception notified;2014;2014;Master;BIS;1337;0;;24;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Bachelor;BBA;1338;1;;18;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Bachelor;BBA;1339;1;;24;Africa;0;0;0; -   ;N/A;Brochure;No
+Acception notified;2014;2014;Master;MFA;1340;1;;24;Africa;1;1;1; 4.400,00 ;N/A;Academic staff;No
+Acception notified;2014;2014;Master;MBA;1341;0;;24;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Bachelor;BBA;1342;1;;18;Africa;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Bachelor;BBA;1343;1;;18;Europe;0;0;0; -   ;N/A;Third part website;No
+First criteria not met;2014;2014;Master;MBA;1344;0;;24;Europe;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Bachelor;BBA;1345;1;;18;Africa;0;0;0; -   ;N/A;Online study portal;No
+First criteria not met;2014;2014;Bachelor;BBA;1346;0;;18;Asia;0;0;0; -   ;N/A;Other;No
+First criteria not met;2014;2014;Bachelor;BBA;1347;0;;18;Africa;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Bachelor;BBA;1348;1;;18;Europe;0;0;0; -   ;N/A;Online study portal;No
+Acception notified;2014;2014;Master;MFE;1349;1;;29;Europe;0;0;0; -   ;N/A;Website;No
+Acception notified;2015;2014;Bachelor;BBA;1350;1;;29;Africa;0;0;3; 10.400,00 ;Type1;Social media;No
+First criteria not met;2014;2014;Diploma;Summer MSCS;1351;1;;24;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Master;MFA;1352;1;;24;Africa;0;0;0; -   ;N/A;Family Academic staff;No
+First criteria not met;2014;2014;Master;MSCS;1353;0;;24;Asia;0;0;0; -   ;N/A;Student Alumnus;No
+Acception notified;2014;2014;Bachelor;BBA;1354;0;;18;Africa;0;0;0; -   ;N/A;Other;No
+Acception notified;2014;2014;Bachelor;BBA;1355;0;;29;Asia;0;0;0; -   ;N/A;Online study portal;No
+First criteria not met;2014;2014;Master;MFA;1356;0;;29;Europe;0;0;0; -   ;N/A;Other;No
+Acception notified;2015;2014;Master;MFA;1357;1;;24;Europe;0;0;0; -   ;N/A;Brochure;No
+First criteria not met;2014;2014;Master;MBA;1358;0;;24;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Bachelor;BBA;1359;1;;18;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Master;MBE;1360;0;;24;Europe;0;0;0; -   ;N/A;Student Alumnus;No
+First criteria not met;2015;2014;Diploma;Summer MSCS;1361;0;;24;Asia;0;0;0; -   ;N/A;Online study portal;No
+Acception notified;2014;2014;Diploma;Summer MSCS;1362;1;;44;Asia;1;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Diploma;Summer MBA;1363;0;;24;Asia;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Master;MBA;1364;1;;24;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Diploma;Summer MSCS;1365;0;;24;Europe;0;0;0; -   ;N/A;Other;No
+Acception notified;2014;2014;Diploma;Summer MSCS;1366;1;;24;North America;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Bachelor;BBA;1367;0;;18;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Bachelor;BBA;1368;0;;18;Asia;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Diploma;Summer MBA;1369;0;;29;Africa;0;0;0; -   ;N/A;Social media;No
+First criteria not met;2014;2014;Diploma;Summer MSCS;1370;1;;24;Africa;0;0;0; -   ;N/A;Social media;No
+First criteria not met;2014;2014;Bachelor;BBA;1371;1;;18;Asia;0;0;0; -   ;N/A;Other;No
+Acception notified;2014;2014;Diploma;Summer MSCS;1372;0;;24;Africa;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Master;MBA;1373;0;;24;Africa;0;0;0; -   ;N/A;Third part website;No
+First criteria not met;2014;2014;Diploma;Summer MSCS;1374;1;;24;Europe;0;0;0; -   ;N/A;Online study portal;No
+Acception notified;2014;2014;Diploma;Summer MSCS;1375;1;;29;Africa;1;0;0; -   ;N/A;Academic staff;No
+First criteria not met;2014;2014;Diploma;Summer MBA;1376;1;;24;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Bachelor;BBA;1377;0;;18;Europe;0;0;0; -   ;N/A;Other;No
+Acception notified;2014;2014;Bachelor;BBA;1378;0;;18;Europe;0;0;0; -   ;N/A;Other;No
+First criteria not met;2014;2014;Master;MBE;1379;0;;24;Europe;0;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Erasmus;Erasmus MBA;1380;0;;25;Asia;0;0;0; -   ;N/A;Academic staff;Yes
+First criteria not met;2014;2014;Bachelor;BBA;1381;0;;18;Europe;0;0;0; -   ;N/A;Website;No
+Registration Started;2015;2015;Bachelor;BBA;1382;1;;25;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2014;Master;MBA;1383;1;;34;Europe;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Master;MBA;1384;0;;25;Europe;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Master;MBE;1385;1;;45;Africa;1;0;0; -   ;N/A;Radio;Yes
+Acception notified;2015;2015;Diploma;Summer MSCS;1386;0;;25;Africa;0;0;3; 8.900,00 ;N/A;Website;No
+Registration Started;2014;2015;Diploma;Summer MSCS;1387;0;;34;Asia;1;0;3; 21.400,00 ;N/A;Website;Yes
+Registration Started;2014;2015;Diploma;Summer MSCS;1388;1;;25;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Diploma;Summer MBA;1389;0;;34;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MBA;1390;0;;25;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Erasmus;Erasmus MBA;1391;0;;25;Europe;0;0;0; -   ;N/A;Website;Yes
+First criteria not met;2015;2015;Bachelor;BBA;1392;0;;25;Europe;0;0;3; 2.400,00 ;N/A;Other;No
+Registration Started;2015;2015;Diploma;Summer MBA;1393;0;;25;Africa;1;0;3; 21.400,00 ;N/A;Student Alumnus;Yes
+Registration Started;2015;2015;Bachelor;BBA;1394;1;;25;Africa;0;0;3; -   ;Type1;Website;Yes
+First criteria not met;2014;2014;Diploma;Summer MSCS;1395;1;;29;Asia;0;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Master;MFE;1396;1;;34;Europe;1;0;0; -   ;N/A;Academic staff;Yes
+First criteria not met;2014;2014;Diploma;Summer MSCS;1397;0;;29;Europe;0;0;0; -   ;N/A;Other;No
+Registration Started;2015;2015;Diploma;Summer MSCS;1398;1;;25;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;1399;1;;18;Africa;0;0;0; -   ;N/A;Other;No
+Acception notified;2015;2014;Bachelor;BBA;1400;0;;18;Africa;0;0;3; -   ;N/A;Social media;No
+Registration Started;2015;2015;Master;MBA;1401;1;;25;North America;3;0;3; 13.400,00 ;Type1;Third part website;Yes
+Registration Started;2015;2015;Master;MSCS;1402;1;;25;Africa;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;1403;0;;25;Africa;0;0;3; 6.400,00 ;N/A;Website;Yes
+Acception notified;2014;2014;Diploma;Summer MSCS;1404;1;;30;Asia;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2015;Diploma;Summer MSCS;1405;0;;30;Africa;1;0;3; -   ;N/A;Website;No
+Registration Started;2015;2015;Master;MBA;1406;1;;25;Africa;0;0;3; -   ;Type1;Student Alumnus;Yes
+Registration Started;2015;2015;Master;ME;1407;1;;30;Africa;0;1;1; -   ;N/A;Student Alumnus;Yes
+Acception notified;2015;2014;Bachelor;BBA;1408;1;;18;Europe;0;0;0; -   ;N/A;Social media;No
+Registration Started;2015;2015;Diploma;Summer MSCS;1409;1;;25;Europe;0;0;3; -   ;N/A;Website;Yes
+Acception notified;2014;2014;Bachelor;BBA;1410;0;;18;Asia;0;0;0; -   ;N/A;Other;No
+Registration Started;2015;2015;Diploma;Summer MSCS;1411;1;;30;Latin America;0;0;3; 31.400,00 ;N/A;Website;Yes
+Acception notified;2015;2014;Bachelor;BBA;1412;0;;18;Africa;0;0;0; -   ;N/A;Social media;No
+Registration Started;2015;2015;Diploma;Summer MSCS;1413;1;;25;Europe;0;0;3; 4.400,00 ;N/A;Website;Yes
+Registration Started;2015;2015;Diploma;Summer MSCS;1414;1;;25;Europe;0;0;3; -   ;N/A;Website;Yes
+Acception notified;2015;2014;Bachelor;BBA;1415;1;;18;Europe;0;0;0; -   ;N/A;Third part website;No
+Registration Started;2015;2015;Bachelor;BBA;1416;1;;25;Europe;0;0;3; -   ;N/A;Website;Yes
+First criteria not met;2015;2015;Master;MFA;1417;1;;25;Europe;0;0;3; 13.400,00 ;N/A;Student Alumnus;No
+First criteria not met;2015;2015;Master;MBA;1418;1;;25;Europe;0;0;3; 13.400,00 ;N/A;Student Alumnus;No
+Registration Started;2014;2014;Diploma;Summer MBA;1419;0;;30;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Master;MBE;1420;1;;25;Europe;0;0;3; 13.400,00 ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Master;MBE;1421;0;;25;Africa;0;0;0; -   ;N/A;Academic staff;Yes
+Acception notified;2014;2014;Bachelor;BBA;1422;1;;18;Europe;0;0;0; -   ;N/A;Other;No
+Registration Started;2015;2015;Master;MBE;1423;1;;25;Europe;0;0;3; -   ;Type1;Website;Yes
+Registration Started;2014;2014;Master;MFA;1424;1;;30;Oceania;0;0;0; -   ;N/A;Student Alumnus;Yes
+First criteria not met;2014;2014;Bachelor;BBA;1425;1;;18;Asia;0;0;0; -   ;N/A;Website;No
+Registration Started;2015;2015;Master;MBA;1426;1;;25;Europe;0;0;3; -   ;Type1;Third part website;Yes
+Acception notified;2014;2014;Bachelor;BBA;1427;1;;18;Europe;0;0;0; -   ;N/A;Brochure;No
+Registration Started;2015;2015;Diploma;Summer MSCS;1428;0;;25;Africa;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2014;Master;MSCS;1429;1;;25;Europe;0;0;3; -   ;N/A;Website;Yes
+Registration Started;2015;2014;Diploma;Summer MBA;1430;1;;25;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;1431;0;;25;Africa;0;0;0; -   ;N/A;Website;Yes
+Acception notified;2014;2014;Bachelor;BBA;1432;1;;18;Africa;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Bachelor;BBA;1433;1;;18;Africa;0;0;0; -   ;N/A;Third part website;No
+Registration Started;2014;2014;Master;ME;1434;0;;25;Africa;0;0;0; -   ;N/A;Student Alumnus;Yes
+Acception notified;2014;2014;Bachelor;BBA;1435;0;;18;Asia;0;0;0; -   ;N/A;Other;No
+Registration Started;2014;2014;Master;MBA;1436;0;;25;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MFA;1437;1;;25;Oceania;0;0;1; 3.200,00 ;N/A;Website;Yes
+First criteria not met;2014;2014;Master;MFA;1438;0;;25;Africa;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Bachelor;BBA;1439;1;;18;Africa;0;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Master;MBE;1440;0;;25;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Bachelor;BBA;1441;1;;25;Africa;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Master;MFE;1442;1;;25;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MFE;1443;1;;25;Africa;0;0;0; -   ;N/A;Website;Yes
+First criteria not met;2015;2015;Master;MSCS;1444;1;;34;Africa;0;0;3; 9.400,00 ;N/A;Website;No
+First criteria not met;2014;2014;Diploma;Summer MBA;1445;0;;25;Africa;1;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Master;MBA;1446;0;;25;Africa;1;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MFA;1447;1;;25;Africa;0;0;0; -   ;N/A;Third part website;Yes
+First criteria not met;2014;2014;Bachelor;BBA;1448;0;;18;Europe;0;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Master;MBE;1449;0;;25;Africa;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Bachelor;BBA;1450;1;;30;Latin America;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Diploma;Summer MBA;1451;0;;35;Asia;3;0;3; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MBE;1452;1;;25;Europe;0;0;0; -   ;N/A;Student Alumnus;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;1453;1;;25;Europe;0;0;0; -   ;N/A;Website;Yes
+Acception notified;2014;2014;Erasmus;Erasmus MBA;1454;1;;45;Europe;3;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Diploma;Summer MSCS;1455;1;;25;Europe;0;0;0; -   ;N/A;Other;Yes
+First criteria not met;2014;2014;Bachelor;BBA;1456;1;;18;Latin America;0;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Master;MFA;1457;1;;25;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MBA;1458;1;;25;Europe;0;0;0; -   ;N/A;Other;Yes
+Registration Started;2014;2014;Master;ME;1459;0;;25;Europe;0;0;0; -   ;N/A;Third part website;Yes
+Registration Started;2014;2014;Master;MBE;1460;1;;25;Europe;0;0;0; -   ;N/A;Website;Yes
+Acception notified;2015;2015;Master;MFA;1461;1;;30;Africa;0;0;3; -   ;Type1;Website;No
+Acception notified;2014;2014;Bachelor;BBA;1462;0;;18;Europe;0;0;0; -   ;N/A;Student Alumnus;No
+Registration Started;2014;2014;Master;MSCS;1463;0;;25;Europe;0;0;0; -   ;N/A;Website;Yes
+First criteria not met;2014;2014;Master;MBA;1464;0;;25;Europe;0;0;0; -   ;N/A;Website;No
+Registration Started;2014;2014;Diploma;Summer MSCS;1465;1;;25;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Master;MBA;1466;1;;25;Europe;0;0;0; -   ;N/A;Student Alumnus;Yes
+First criteria not met;2014;2014;Bachelor;BBA;1467;1;;18;Europe;0;0;0; -   ;N/A;Third part website;No
+Acception notified;2014;2014;Bachelor;BBA;1468;1;;18;Europe;0;0;0; -   ;N/A;Other;No
+Registration Started;2015;2015;Master;MBA;1469;0;;30;Latin America;0;0;3; -   ;N/A;Other;No
+Registration Started;2014;2014;Bachelor;BBA;1470;0;;25;Europe;0;0;0; -   ;N/A;Website;Yes
+First criteria not met;2015;2015;Master;MSCS;1471;0;;30;Africa;1;0;3; 11.400,00 ;Type1;Website;No
+First criteria not met;2015;2015;Master;ME;1472;1;;30;North America;3;1;1; 11.400,00 ;N/A;Employer;No
+Registration Started;2014;2014;Diploma;Summer MSCS;1473;0;;25;Europe;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2014;2014;Diploma;Summer MSCS;1474;0;;25;Asia;0;0;0; -   ;N/A;Scholarship;Yes
+Acception notified;2015;2015;Diploma;Summer MSCS;1475;0;;25;Europe;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Master;ME;1476;1;;25;Europe;0;1;1; 10.000,00 ;N/A;Website;No
+First criteria not met;2015;2015;Master;MBInf;1477;0;;25;Africa;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Bachelor;BBA;1478;1;;25;Europe;0;0;3; -   ;N/A;Website;No
+Acception notified;2014;2015;Master;MBInf;1479;0;;25;Africa;0;1;3; 8.900,00 ;Type1;Website;No
+Acception notified;2015;2015;Master;MSCS;1480;1;;30;Africa;0;0;3; -   ;Type1;Website;No
+First criteria not met;2015;2015;Bachelor;BBA;1481;0;;25;Asia;0;0;3; 9.820,00 ;N/A;Other;No
+Registered second time;2014;2014;Master;MSCS;1482;1;;35;Africa;0;0;0; -   ;N/A;Website;Yes
+Registration Started;2015;2015;Master;MBA;1483;0;;30;Africa;0;0;3; 31.400,00 ;N/A;Website;No
+Acception notified;2014;2014;Diploma;Summer MSCS;1484;0;;45;Africa;0;0;0; -   ;N/A;Radio;No
+First criteria not met;2015;2015;Master;MBA;1485;0;;25;Europe;0;0;3; -   ;N/A;Student Alumnus;No
+First criteria not met;2015;2015;Master;MSCS;1486;0;;25;Europe;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Bachelor;BBA;1487;1;;25;Latin America;0;0;3; -   ;N/A;N/A;No
+First criteria not met;2015;2015;Master;MSCS;1488;1;;25;Africa;0;0;3; -   ;Type1;Website;No
+Acception notified;2015;2015;Diploma;Summer MSCS;1489;1;;25;North America;0;0;3; 23.900,00 ;N/A;Website;No
+First criteria not met;2015;2015;Master;MSCS;1490;0;;30;Europe;0;0;3; 16.400,00 ;N/A;Academic staff;No
+Acception notified;2014;2014;Diploma;Summer MSCS;1491;1;;47;Europe;0;0;0; -   ;N/A;Website;No
+Acception notified;2015;2015;Diploma;Summer MSCS;1492;0;;30;Europe;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Diploma;Summer MSCS;1493;0;;30;Africa;0;0;1; 3.200,00 ;N/A;Website;No
+First criteria not met;2015;2015;Diploma;Summer MBA;1494;1;;30;Europe;0;0;3; -   ;N/A;Website;No
+Acception notified;2015;2015;Master;MFA;1495;1;;49;Latin America;1;0;3; 21.400,00 ;N/A;Website;No
+Acception notified;2015;2015;Diploma;Summer MSCS;1496;0;;25;Africa;0;0;3; 11.400,00 ;N/A;Website;No
+First criteria not met;2015;2015;Diploma;Summer MSCS;1497;0;;25;Europe;0;0;3; -   ;N/A;Student Alumnus;No
+Acception notified;2015;2014;Master;MBE;1498;0;;30;Asia;0;0;3; -   ;N/A;Website;No
+Registration Started;2015;2015;Diploma;Summer MSCS;1499;0;;35;Latin America;0;0;3; -   ;N/A;Google;Yes
+Acception notified;2015;2014;Master;MBInf;1500;1;;30;Africa;0;0;0; -   ;N/A;Online study portal;No
+Acception notified;2015;2014;Bachelor;BBA;1501;1;;18;Africa;0;0;0; -   ;N/A;Other;No
+First criteria not met;2015;2015;Master;MBE;1502;1;;25;Europe;0;0;3; -   ;N/A;Website;No
+First criteria not met;2014;2014;Master;MBA;1503;1;;50;Latin America;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2015;Master;MFA;1504;0;;25;Europe;0;0;3; 11.400,00 ;N/A;Website;No
+Acception notified;2014;2014;Diploma;Summer MSCS;1505;1;;25;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Diploma;Summer MBA;1506;1;;25;Europe;0;0;0; -   ;N/A;Other;No
+Acception notified;2014;2014;Diploma;Summer MBA;1507;0;;25;Europe;0;0;3; -   ;N/A;Website;No
+First criteria not met;2015;2015;Diploma;Summer MBA;1508;0;;35;Europe;1;0;3; -   ;N/A;Website;No
+First criteria not met;2014;2014;Diploma;Summer MSCS;1509;1;;25;Europe;0;0;0; -   ;N/A;Student Alumnus;No
+First criteria not met;2014;2014;Diploma;Summer MSCS;1510;0;;25;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Master;MBInf;1511;1;;25;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Master;MSCS;1512;1;;25;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Erasmus;Erasmus MBA;1513;1;;25;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Erasmus;Erasmus MBA;1514;0;;25;Europe;0;0;0; -   ;N/A;Other;No
+Acception notified;2014;2014;Master;MFA;1515;0;;25;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Master;MBA;1516;1;;25;Europe;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Master;MBInf;1517;1;;25;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Master;MBE;1518;0;;25;Europe;0;0;0; -   ;N/A;Website;No
+Registered second time;2014;2014;Master;MFE;1519;1;;25;Asia;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Master;MFE;1520;1;;25;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Bachelor;BBA;1521;1;;35;Asia;1;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Master;ME;1522;0;;30;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Bachelor;BBA;1523;1;;30;Asia;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Bachelor;BBA;1524;0;;30;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Master;ME;1525;0;;35;Africa;0;1;1; 2.400,00 ;Other;Academic staff;No
+Acception notified;2015;2014;Erasmus;Erasmus MBA;1526;1;;30;Africa;1;0;0; -   ;N/A;Scholarship;No
+Acception notified;2015;2014;Master;MBA;1527;1;;30;Europe;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Diploma;Summer MSCS;1528;1;;25;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Diploma;Summer MSCS;1529;1;;30;Africa;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Diploma;Summer MSCS;1530;0;;25;Africa;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Erasmus;Erasmus MBA;1531;0;;35;Europe;0;0;0; -   ;N/A;Website;No
+First criteria not met;2014;2014;Master;MBA;1532;0;;35;Europe;0;0;0; -   ;N/A;Website;No
+Acception notified;2014;2014;Diploma;Summer MSCS;1533;0;;25;Europe;0;0;3; 11.400,00 ;N/A;Online study portal;No
+First criteria not met;2014;2014;Diploma;Summer MSCS;1534;1;;35;Europe;0;0;0; -   ;N/A;Website;No
